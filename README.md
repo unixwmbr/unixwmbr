@@ -2,22 +2,41 @@
 
 Repositório de amostra de dotfiles do grupo [unixwmbr](https://t.me/unixwmbr)
 
-## Tema: pallete
+## Usuário: jyeno
 
-### WM: dwm
+### Tema: pallete
 
-### [Config](https://github.com/jyeno/dwm)
+#### WM: dwm
 
-### Captura de tela
+#### [config](https://github.com/jyeno/dwm)
+
+#### Captura de tela
 
 ![jyeno-dwm](https://raw.githubusercontent.com/jyeno/dwm/master/screenshots/dwmshot.jpg)
 
-## Tema: Gruvbox 
+## Usuário: carlosdss22
 
-### WM: Sway
+### Tema: Gruvbox
 
-### [Config](https://github.com/carlosdss22/dotfiles)
+#### WM: sway
 
-### Captura de tela
+#### [config](https://github.com/carlosdss22/dotfiles)
+
+#### Captura de tela
 
 <img src="https://github.com/carlosdss22/dotfiles/blob/master/sway.png" width="1365">
+
+## Usuário: fffranks
+
+### Tema: Gruvbox
+
+#### WM: i3-gaps
+
+#### [config](https://github.com/fffranks/dotfiles)
+
+#### Captura de Tela
+
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-GAPS.png" width="1365">
+
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-LOCK.png" width="1365">
+
