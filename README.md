@@ -2,7 +2,7 @@
 Repositório de amostra de dotfiles do grupo [unixwmbr] (https://t.me/unixwmbr)
 
 ## jyeno dwm
-usuário: [jyeno-dwm] (https://github.com/jyeno/dwm)
+usuário: [jyeno-dwm](https://github.com/jyeno/dwm)
 
 ### Captura de tela
 
