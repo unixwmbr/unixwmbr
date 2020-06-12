@@ -30,7 +30,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: fffranks
 
-### Tema: Gruvbox
+### Tema: Black and White
 
 #### WM: i3-gaps
 
@@ -38,7 +38,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### Captura de Tela
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-GAPS.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-gaps(dark).png" width="1365">
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-LOCK.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-lock(dark).png" width="1365">
 
