@@ -2,6 +2,8 @@
 
 Repositório de amostra de dotfiles do grupo [unixwmbr](https://t.me/unixwmbr)
 
+Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/carlosdss22/unixwmbr/blob/master/CONTRIBUTING.md) ou fale com um dos administradores do grupo.
+
 ## Usuário: jyeno
 
 ### Tema: pallete
