@@ -28,7 +28,7 @@ Repositório de amostra de dotfiles do grupo [unixwmbr](https://t.me/unixwmbr)
 
 ## Usuário: fffranks
 
-### Tema: Gruvbox
+### Tema: Black and White
 
 #### WM: i3-gaps
 
@@ -36,7 +36,7 @@ Repositório de amostra de dotfiles do grupo [unixwmbr](https://t.me/unixwmbr)
 
 #### Captura de Tela
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-GAPS.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-gaps(dark).png" width="1365">
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-LOCK.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-lock(dark).png" width="1365">
 
