@@ -38,7 +38,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### Captura de Tela
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-GAPS.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3.png" width="1365">
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3LOCK.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3lock.png" width="1365">
 
