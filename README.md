@@ -56,3 +56,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 ### [alaDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/alaDraw.sh)
 Desenhe um terminal na tela (alacritty é o padrão)
 ![aladraw.gif](https://github.com/carlosdss22/unixwmbr/blob/master/aladraw.gif)
+
+### [taskbar](https://github.com/odilonscoelho/taskbar)
+labels de janelas para polybar - bspwm/i3wm
+![taskbar.img](https://github.com/odilonscoelho/taskbar/blob/master/print.jpg)
