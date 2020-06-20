@@ -14,12 +14,6 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ![jyeno-dwm](https://raw.githubusercontent.com/jyeno/dwm/master/screenshots/dwmshot.jpg)
 
-### Tema: pallete
-
-#### WM: sway
-
-#### [config](https://github.com/jyeno/sway)
-
 ## Usuário: carlosdss22
 
 ### Tema: Gruvbox
