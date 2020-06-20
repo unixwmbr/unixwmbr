@@ -18,9 +18,7 @@ Para adicionar uma amostra da sua config você pode fazer um pull request com o 
 
 para adicionar uma menção do seu script, adicione após a ultima amostra de script:
 
-\### \<nome do script>
-
-\#### \[nome do script](\<link para ele>)
+\### \[nome do script](\<link para ele>)
 \<adicione um texto falando sobre o script, ao menos o que ele faz>
 \<imagem ou gif de amostra, se houver>
 
