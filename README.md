@@ -16,6 +16,14 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ![jyeno-dwm](https://raw.githubusercontent.com/jyeno/dwm/master/screenshots/dwmshot.jpg)
 
+### Tema: pallete
+
+#### WM: sway
+
+#### [config](https://github.com/jyeno/sway)
+
+#### Captura de tela
+
 ## Usuário: carlosdss22
 
 ### Tema: Gruvbox
@@ -42,3 +50,9 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3lock.png" width="1365">
 
+
+## Scripts
+
+### [alaDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/alaDraw.sh)
+Desenhe um terminal na tela (alacritty é o padrão)
+![aladraw.gif](https://github.com/carlosdss22/unixwmbr/blob/master/aladraw.gif)
