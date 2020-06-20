@@ -9,8 +9,6 @@ Para adicionar uma amostra da sua config você pode fazer um pull request com o 
 
 \#### [config](\<coloque aqui o link para sua config>)
 
-\#### Captura de tela
-
 \<img src="\<link para a captura de tela dessa config>" width="1365">
 (pode adicionar mais de uma captura de tela)
 
