@@ -5,7 +5,7 @@ Para adicionar uma amostra da sua config você pode fazer um pull request com o 
 
 \### Tema: <nome do seu tema pode ser um próprio ou um já conhecido>
 
-\#### WM: < sua WM aqui>
+\#### WM: <sua WM aqui>
 
 \#### [config](\<coloque aqui o link para sua config>)
 
@@ -15,4 +15,12 @@ Para adicionar uma amostra da sua config você pode fazer um pull request com o 
 (pode adicionar mais de uma captura de tela)
 
 (também, se tiver mais de um tema, siga o mesmo estilo acima)
+
+para adicionar uma menção do seu script, adicione após a ultima amostra de script:
+
+\### \<nome do script>
+
+\#### \[nome do script](\<link para ele>)
+\<adicione um texto falando sobre o script, ao menos o que ele faz>
+\<imagem ou gif de amostra, se houver>
 
