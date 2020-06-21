@@ -26,7 +26,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: fffranks
 
-### Tema: Black and White
+### Tema: Gruvbox
 
 #### WM: i3-gaps
 
