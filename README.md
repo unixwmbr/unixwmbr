@@ -14,7 +14,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ![jyeno-dwm](https://raw.githubusercontent.com/jyeno/dwm/master/screenshots/dwmshot.jpg)
 
-## Usuário: carlosdss22
+## Usuário: carlosd-ss
 
 ### Tema: Gruvbox
 
