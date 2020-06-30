@@ -36,6 +36,15 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3lock.png" width="1365">
 
+## Usuário: losaoall
+
+### Tema: Gruvbox
+
+#### WM: bspwm
+
+#### [config](https://github.com/odilonscoelho/dots)
+
+<img src="https://github.com/odilonscoelho/dots/blob/master/print.jpg" width="1365">
 
 ## Scripts
 
