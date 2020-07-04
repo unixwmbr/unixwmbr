@@ -46,6 +46,16 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/odilonscoelho/dots/blob/master/print.jpg" width="1365">
 
+## Usuário: pedrkw
+
+### Tema: Gerado por pywal
+
+#### WM: i3-gaps
+
+#### [config](https://github.com/pedrkw/dotfiles)
+
+<img src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" width="1365">
+
 ## Scripts
 
 ### [alaDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/alaDraw.sh)
