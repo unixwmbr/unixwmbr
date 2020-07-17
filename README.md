@@ -32,9 +32,9 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/print.png" width="1365">
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3lock.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/lock.png" width="1365">
 
 ## Usuário: losaoall
 
