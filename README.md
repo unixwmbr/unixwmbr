@@ -56,6 +56,18 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" width="1365">
 
+## Usuário: alisonamerico
+
+### Tema: Forest
+
+#### WM: i3-gaps
+
+#### [config](https://github.com/alisonamerico/dotfiles)
+
+<img src="https://github.com/alisonamerico/dotfiles/blob/master/.images/desktop.png" width="1365">
+
+<img src="https://github.com/alisonamerico/dotfiles/blob/master/.images/terminals.png" width="1365">
+
 ## Scripts
 
 ### [alaDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/alaDraw.sh)
