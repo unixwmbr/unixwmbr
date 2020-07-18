@@ -58,7 +58,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: alisonamerico
 
-### Tema: Forest
+### Tema: Purple Mountain
 
 #### WM: i3-gaps
 
