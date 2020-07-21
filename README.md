@@ -34,7 +34,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-gaps.png" width="1365">
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-lock.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-lock.png" width="1365">
 
 ## Usuário: losaoall
 
