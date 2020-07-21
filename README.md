@@ -70,7 +70,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Scripts
 
-### [alaDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh)
+### [termDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh)
 Desenhe um terminal na tela (alacritty é o padrão)
 ![aladraw.gif](https://github.com/carlosdss22/unixwmbr/blob/master/aladraw.gif)
 
