@@ -37,11 +37,11 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-lock.png" width="1365">
 
 # `SOFTWARES:`
-### MENU: [Rofi](https://github.com/DaveDavenport/rofi)
-### BARRA: [Polybar](https://github.com/jaagr/polybar)
-### TERMINAL: [Alacritty](https://github.com/zenixls2/alacritty/blob/ligature/INSTALL.md)
-### EDITOR DE TEXTO: [Vim](https://github.com/vim/vim)
-### NOTIFICAÇÃO: [Dunst](https://github.com/dunst-project/dunst)
+#### MENU: [Rofi](https://github.com/DaveDavenport/rofi)
+#### BARRA: [Polybar](https://github.com/jaagr/polybar)
+#### TERMINAL: [Alacritty](https://github.com/zenixls2/alacritty/blob/ligature/INSTALL.md)
+#### EDITOR DE TEXTO: [Vim](https://github.com/vim/vim)
+#### NOTIFICAÇÃO: [Dunst](https://github.com/dunst-project/dunst)
 
 ## Usuário: losaoall
 
