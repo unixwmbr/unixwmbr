@@ -40,7 +40,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 #### Menu: [Rofi](https://github.com/fffranks/dotfiles/tree/master/.config/rofi)
 #### Barra: [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
 #### Terminal: [Alacritty](https://github.com/fffranks/dotfiles/tree/master/.config/alacritty)
-#### Notificação: [Dunst](https://github.com/fffranks/dotfiles/tree/master/.config/dunst)
+#### Player de música: [MPD](https://github.com/fffranks/dotfiles/tree/master/.mpd) [Ncmpcpp](https://github.com/fffranks/dotfiles/tree/master/.ncmpcpp)
 
 ## Usuário: losaoall
 
