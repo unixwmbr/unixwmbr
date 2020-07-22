@@ -37,10 +37,10 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-lock.png" width="1365">
 
 # `Softwares:`
-#### MENU: [Rofi](https://github.com/fffranks/dotfiles/tree/master/.config/rofi)
-#### BARRA: [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
-#### TERMINAL: [Alacritty](https://github.com/fffranks/dotfiles/tree/master/.config/alacritty)
-#### NOTIFICAÇÃO: [Dunst](https://github.com/fffranks/dotfiles/tree/master/.config/dunst)
+#### Menu: [Rofi](https://github.com/fffranks/dotfiles/tree/master/.config/rofi)
+#### Barra: [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
+#### Terminal: [Alacritty](https://github.com/fffranks/dotfiles/tree/master/.config/alacritty)
+#### Notificação: [Dunst](https://github.com/fffranks/dotfiles/tree/master/.config/dunst)
 
 ## Usuário: losaoall
 
