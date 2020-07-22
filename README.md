@@ -36,7 +36,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-lock.png" width="1365">
 
-## SOFTWARES:
+# `Softwares:`
 #### MENU: [Rofi](https://github.com/fffranks/dotfiles/tree/master/.config/rofi)
 #### BARRA: [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
 #### TERMINAL: [Alacritty](https://github.com/fffranks/dotfiles/tree/master/.config/alacritty)
