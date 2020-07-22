@@ -34,10 +34,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-gaps.png" width="1365">
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-lock.png" width="1365">
-
 # `Softwares:`
-#### Menu: [Rofi](https://github.com/fffranks/dotfiles/tree/master/.config/rofi)
 #### Barra: [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
 #### Terminal: [Alacritty](https://github.com/fffranks/dotfiles/tree/master/.config/alacritty)
 #### Player de música: [MPD](https://github.com/fffranks/dotfiles/tree/master/.mpd) e [Ncmpcpp](https://github.com/fffranks/dotfiles/tree/master/.ncmpcpp)
