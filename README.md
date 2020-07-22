@@ -26,7 +26,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: fffranks
 
-### Tema: Dracula-Theme
+### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
 
 #### WM: i3-gaps
 
