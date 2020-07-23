@@ -32,12 +32,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/Arch-i3-gaps.png" width="1365">
-
-# `Softwares:`
-#### Barra: [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
-#### Terminal: [Alacritty](https://github.com/fffranks/dotfiles/tree/master/.config/alacritty)
-#### Player de música: [MPD](https://github.com/fffranks/dotfiles/tree/master/.mpd) e [Ncmpcpp](https://github.com/fffranks/dotfiles/tree/master/.ncmpcpp)
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3.png" width="1365">
 
 ## Usuário: losaoall
 
