@@ -32,7 +32,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/archi3.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3-gaps-arch.png" width="1365">
 
 ## Usuário: losaoall
 
