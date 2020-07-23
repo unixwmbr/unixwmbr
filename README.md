@@ -26,13 +26,13 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: fffranks
 
-### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
+### Tema: [Nord-Theme](https://github.com/arcticicestudio/nord)
 
 #### WM: i3-gaps
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/i3.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/imagens/archi3.png" width="1365">
 
 ## Usuário: losaoall
 
