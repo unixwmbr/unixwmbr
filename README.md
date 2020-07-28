@@ -1,4 +1,4 @@
-<img src="https://github.com/carlosdss22/unixwmbr/blob/master/img.png" width="400">
+<img src="https://github.com/carlosdss22/unixwmbr/blob/master/logo.png" width="400">
 
 Repositório de amostra de dotfiles do grupo [unixwmbr](https://t.me/unixwmbr)
 
