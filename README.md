@@ -38,6 +38,8 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### WM: Sway
 
+#### [config](https://github.com/fffranks/dotfiles)
+
 <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/SwayWM.png" width="1365">
 
 #### WM: i3-gaps
