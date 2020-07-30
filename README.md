@@ -32,12 +32,13 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/carlosdss22/dotfiles/blob/master/i3.png" width="1365">
 
-
-
-
 ## Usuário: fffranks
 
 ### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
+
+### WM: Sway
+
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/SwayWM.png" width="1365">
 
 #### WM: i3-gaps
 
