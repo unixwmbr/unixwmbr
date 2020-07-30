@@ -36,7 +36,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
 
-### WM: Sway
+#### WM: Sway
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/SwayWM.png" width="1365">
 
