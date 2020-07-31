@@ -54,7 +54,7 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: losaoall
 
-### Tema: Gruvbox
+### Tema: Custom
 
 #### WM: bspwm
 
