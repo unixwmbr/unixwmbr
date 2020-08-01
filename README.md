@@ -34,13 +34,15 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: fffranks
 
-### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
+### Tema: CUSTOM
 
 #### WM: Sway
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/SwayWM.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Sway.png" width="1365">
+
+### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
 
 #### WM: i3-gaps
 
