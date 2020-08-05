@@ -96,6 +96,16 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" width="1365">
 
+## Usuário: nwildner
+
+### Tema: Solarized
+
+#### WM: i3-gaps
+
+#### [config](https://gitlab.com/nwildner/dotfiles)
+
+<img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" width="1365">
+
 ## Scripts
 
 ### [termDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh)
