@@ -24,8 +24,6 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://github.com/carlosdss22/dotfiles/blob/master/sway.png" width="1365">
 
-
-
 #### WM: I3
 
 #### [config](https://github.com/carlosdss22/dotfiles)
@@ -34,17 +32,17 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: fffranks
 
-### Tema: [Dracula-Theme](https://github.com/dracula/dracula-theme)
+### Tema: [Gruvbox](https://github.com/morhetz/gruvbox)
 
 #### WM: i3-gaps
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-Gaps.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GruvBox.png" width="1365">
 
 #### i3-Lock
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-Lock.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GruvBox-Lock.png" width="1365">
 
 ## Usuário: losaoall
 
