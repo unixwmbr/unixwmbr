@@ -16,19 +16,19 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ## Usuário: carlosd-ss
 
-### Tema: Minimal Planet
+### Tema: Minimalist World
 
 #### WM: sway
 
 #### [config](https://github.com/carlosdss22/dotfiles)
 
-<img src="https://github.com/carlosdss22/dotfiles/blob/master/sway.png" width="1365">
+<img src="https://github.com/carlosdss22/dotfiles/blob/master/.github/sway.png" width="1365">
 
 #### WM: I3
 
 #### [config](https://github.com/carlosdss22/dotfiles)
 
-<img src="https://github.com/carlosdss22/dotfiles/blob/master/i3.png" width="1365">
+<img src="https://github.com/carlosdss22/dotfiles/blob/master/.github/i3.png" width="1365">
 
 ## Usuário: fffranks
 
