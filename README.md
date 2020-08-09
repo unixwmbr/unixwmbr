@@ -38,11 +38,11 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 #### [config](https://github.com/fffranks/dotfiles)
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GruvBox.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3.png" width="1365">
 
 #### i3-Lock
 
-<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GruvBox-Lock.png" width="1365">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Lock.png" width="1365">
 
 ## Usuário: losaoall
 
