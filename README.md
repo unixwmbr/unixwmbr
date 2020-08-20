@@ -96,6 +96,16 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" width="1365">
 
+## Usuário: overlock1
+
+### Tema: Custom
+
+#### WM: i3-gaps
+
+#### [config](https://github.com/overlock1/i3-gaps)
+
+<img src="https://github.com/overlock1/i3-gaps/blob/master/2020-08-19_i3-gaps_1366x768.png" width="1365">
+
 ## Scripts
 
 ### [termDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh)
