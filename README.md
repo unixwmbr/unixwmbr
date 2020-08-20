@@ -178,7 +178,7 @@
 
 <div align="center">
   <a href="https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh">
-    <img alt="Script" src="https://img.shields.io/badge/nome-aladraw-%2322252f?style=for-the-badge" />
+    <img alt="Script" src="https://img.shields.io/badge/nome-termdraw-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <p>Desenhe um terminal na tela (alacritty é o padrão).</p>
