@@ -107,8 +107,6 @@
 
 --------------
 
-<img src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" width="1365">
-
 <div align="center">
   <a href="https://github.com/alisonamerico/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/config-alisonamerico-%2322252f?style=for-the-badge" />
