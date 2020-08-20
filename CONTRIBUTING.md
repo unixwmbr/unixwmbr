@@ -43,7 +43,9 @@ Para:
     />
   </a>
   <br /><br />
-  <img alt="Captura de tela / Gif" src="{Link para sua captura de tela / Gif}" />
+  <a href="{Link referência para o seu dotfiles.}">
+    <img alt="Captura de tela / Gif" src="{Link para sua captura de tela / Gif}" />
+  </a>
   <br/><br/>
 </div>
 ```
@@ -65,7 +67,9 @@ Para:
     {adicione um texto falando sobre o script, ao menos o que ele faz imagem ou
     gif de amostra, se houver}. Caso for barra não precisa incluir paragrafo.
   </p>
-  <img alt="Captura de tela / Gif" src="{Link para captura de tela / Gif}" />
+  <a href="{Link referência para o seu script ou imagem da barra.}">
+    <img alt="Captura de tela / Gif" src="{Link para captura de tela / Gif}" />
+  </a>
   <br/><br/>
 </div>
 ```

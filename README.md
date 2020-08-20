@@ -23,7 +23,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-pallete-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://raw.githubusercontent.com/jyeno/dotfiles/master/screenshot.png" />
+  <a href="https://github.com/jyeno/dotfiles">
+    <img alt="Captura de tela" src="https://raw.githubusercontent.com/jyeno/dotfiles/master/screenshot.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -40,7 +42,8 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-Minimalist_world-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/sway.png" />
+  <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway">
+    <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/sway.png" />
   <br/><br/>
   <a href="https://github.com/i3/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3-%2322252f?style=for-the-badge" />
@@ -49,7 +52,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-Minimalist_world-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/i3.png" />
+  <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3">
+    <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/i3.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -66,8 +71,10 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GAPS.png" />
-  <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-LOCK.png" />
+  <a href="https://github.com/fffranks/dotfiles">
+    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GAPS.png" />
+    <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-LOCK.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -84,7 +91,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/odilonscoelho/dots/blob/master/print.jpg" />
+  <a href="https://github.com/odilonscoelho/dots">
+    <img alt="Captura de tela" src="https://github.com/odilonscoelho/dots/blob/master/print.jpg" />
+  </a>
   <br/><br/>
 </div>
 
@@ -101,7 +110,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-pywal-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" />
+  <a href="https://github.com/pedrkw/dotfiles">
+   <img alt="Captura de tela" src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -118,8 +129,10 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-Purple_Mountain-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/desktop.png" />
-  <img alt="Terminais" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/terminals.png" />
+  <a href="https://github.com/alisonamerico/dotfiles">
+    <img alt="Captura de tela" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/desktop.png" />
+    <img alt="Terminais" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/terminals.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -136,7 +149,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-nord-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" />
+  <a href="https://github.com/zSucrilhos/dotfiles">
+    <img alt="Captura de tela" src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -153,7 +168,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-solarized-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" />
+  <a href="https://gitlab.com/nwildner/dotfiles">
+    <img alt="Captura de tela" src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -170,7 +187,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <img alt="Captura de tela" src="https://github.com/overlock1/i3-gaps/blob/master/2020-08-19_i3-gaps_1366x768.png" />
+  <a href="https://github.com/overlock1/i3-gaps">
+    <img alt="Captura de tela" src="https://github.com/overlock1/i3-gaps/blob/master/2020-08-19_i3-gaps_1366x768.png" />
+  </a>
   <br/><br/>
 </div>
 
@@ -182,7 +201,9 @@
   </a>
   <br/><br/>
   <p>Desenhe um terminal na tela (alacritty é o padrão).</p>
-  <img alt="Aladraw" src="https://github.com/unixwmbr/unixwmbr/blob/master/aladraw.gif" />
+  <a href="https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh">
+    <img alt="Aladraw" src="https://github.com/unixwmbr/unixwmbr/blob/master/aladraw.gif" />
+  </a>
   <br/><br/>
 </div>
 
@@ -194,7 +215,9 @@
   </a>
   <br/><br/>
   <p>Labels de janelas para polybar - bspwm/i3wm.</p>
-  <img alt="taskbar" src="https://github.com/odilonscoelho/taskbar/blob/master/print.jpg" />
+  <a href="https://github.com/odilonscoelho/taskbar">
+    <img alt="taskbar" src="https://github.com/odilonscoelho/taskbar/blob/master/print.jpg" />
+  </a>
   <br/><br/>
 </div>
 
