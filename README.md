@@ -8,11 +8,11 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 ### Tema: pallete
 
-#### WM: dwm
+#### WM: sway
 
-#### [config](https://github.com/jyeno/dwm)
+#### [config](https://github.com/jyeno/dotfiles)
 
-![jyeno-dwm](https://raw.githubusercontent.com/jyeno/dwm/master/screenshots/dwmshot.jpg)
+![jyeno-sway](https://raw.githubusercontent.com/jyeno/dotfiles/master/screenshot.png)
 
 ## Usuário: carlosd-ss
 
