@@ -21,6 +21,8 @@ Para:
 <h3 align="center">Template de Dotfiles</h3>
 
 ```html
+--------------
+
 <div align="center">
   <a href="{Link referência para o seu dotfiles.}">
     <img
@@ -49,6 +51,8 @@ Para:
 <h3 align="center">Template Scripts / Barras</h3>
 
 ```html
+--------------
+
 <div align="center">
   <a href="{Link referência para o seu script ou imagem da barra.}">
     <img

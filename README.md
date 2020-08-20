@@ -27,6 +27,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://github.com/carlosd-ss/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/config-carlosdss-%2322252f?style=for-the-badge" />
@@ -51,6 +53,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://github.com/fffranks/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/config-fffranks-%2322252f?style=for-the-badge" />
@@ -67,6 +71,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://github.com/odilonscoelho/dots">
     <img alt="Dots" src="https://img.shields.io/badge/config-losaoall-%2322252f?style=for-the-badge" />
@@ -82,6 +88,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://github.com/pedrkw/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/config-pedrkw-%2322252f?style=for-the-badge" />
@@ -96,6 +104,8 @@
   <img alt="Captura de tela" src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" />
   <br/><br/>
 </div>
+
+--------------
 
 <img src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" width="1365">
 
@@ -115,6 +125,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://github.com/zSucrilhos/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/config-zSucrilhos-%2322252f?style=for-the-badge" />
@@ -130,6 +142,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://gitlab.com/nwildner/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/config-nwildner-%2322252f?style=for-the-badge" />
@@ -144,6 +158,8 @@
   <img alt="Captura de tela" src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" />
   <br/><br/>
 </div>
+
+--------------
 
 <div align="center">
   <a href="https://github.com/overlock1/i3-gaps">
@@ -172,6 +188,8 @@
   <br/><br/>
 </div>
 
+--------------
+
 <div align="center">
   <a href="https://github.com/odilonscoelho/taskbar">
     <img alt="Script" src="https://img.shields.io/badge/nome-taskbar-%2322252f?style=for-the-badge" />
@@ -182,7 +200,7 @@
   <br/><br/>
 </div>
 
-<h2 align="center">Contributing</h2>
+<h2 align="center">Contribuindo</h2>
 <p>
-    Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua configuração, scripts ou bars. Veja a sessão <a href="https://github.com/unixwmbr/unixwmbr/blob/master/CONTRIBUTING.md">Contribuindo</a> para mais detalhes.
+    Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua configuração, scripts ou bars. Veja a sessão <a href="https://github.com/unixwmbr/unixwmbr/blob/master/CONTRIBUTING.md">Contribuindo</a> para mais detalhes e você pode também falar com os membros do grupo.
 </P>
