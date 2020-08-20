@@ -13,8 +13,12 @@
 <h1 align="center">Dotfiles</h1>
 
 <div align="center">
+  <a href="https://github.com/jyeno">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-jyeno-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/jyeno/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-jyeno-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/swaywm/sway">
     <img alt="WM" src="https://img.shields.io/badge/WM-sway-%2322252f?style=for-the-badge" />
@@ -32,8 +36,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/carlosd-ss">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-carlosdss-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/carlosd-ss/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-carlosdss-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/swaywm/sway">
     <img alt="WM" src="https://img.shields.io/badge/WM-sway-%2322252f?style=for-the-badge" />
@@ -61,8 +69,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/fffranks">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-fffranks-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/fffranks/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-fffranks-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
@@ -81,8 +93,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/odilonscoelho">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-losaoall-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/odilonscoelho/dots">
-    <img alt="Dots" src="https://img.shields.io/badge/config-losaoall-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/baskerville/bspwm/">
     <img alt="WM" src="https://img.shields.io/badge/WM-bspwm-%2322252f?style=for-the-badge" />
@@ -100,8 +116,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/pedrkw">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-pedrkw-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/pedrkw/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-pedrkw-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
@@ -119,8 +139,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/alisonamerico">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-alisonamerico-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/alisonamerico/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-alisonamerico-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
@@ -139,8 +163,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/zSucrilhos">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-zSucrilhos-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/zSucrilhos/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-zSucrilhos-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/baskerville/bspwm/">
     <img alt="WM" src="https://img.shields.io/badge/WM-bspwm-%2322252f?style=for-the-badge" />
@@ -158,8 +186,12 @@
 --------------
 
 <div align="center">
+  <a href="https://gitlab.com/nwildner">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-nwildner-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://gitlab.com/nwildner/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/config-nwildner-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
@@ -177,8 +209,12 @@
 --------------
 
 <div align="center">
+  <a href="https://github.com/overlock1">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-overlock1-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="https://github.com/overlock1/i3-gaps">
-    <img alt="Dots" src="https://img.shields.io/badge/config-overlock1-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />

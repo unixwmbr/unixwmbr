@@ -24,10 +24,14 @@ Para:
 --------------
 
 <div align="center">
+  <a href="{Link referência para o seu perfil do github/gitlab.}">
+    <img src="https://img.shields.io/badge/usuário-{seu nome de usuário}-%232c3e50?style=for-the-badge" />
+  </a>
+  <br/>
   <a href="{Link referência para o seu dotfiles.}">
     <img
       alt="Dotfiles"
-      src="https://img.shields.io/badge/config-{seu nome}-%232c3e50?style=for-the-badge"
+      src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
     />
   </a>
   <a href="{Link referência para WM.}">
