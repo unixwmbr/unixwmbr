@@ -24,6 +24,7 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://raw.githubusercontent.com/jyeno/dotfiles/master/screenshot.png" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -47,6 +48,7 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/i3.png" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -62,6 +64,7 @@
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GAPS.png" />
   <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-LOCK.png" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -76,6 +79,7 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/odilonscoelho/dots/blob/master/print.jpg" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -90,6 +94,7 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" />
+  <br/><br/>
 </div>
 
 <img src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" width="1365">
@@ -107,6 +112,7 @@
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/desktop.png" />
   <img alt="Terminais" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/terminals.png" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -121,6 +127,7 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -135,11 +142,12 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" />
+  <br/><br/>
 </div>
 
 <div align="center">
   <a href="https://github.com/overlock1/i3-gaps">
-    <img alt="Dots" src="https://img.shields.io/badge/config-jyeno-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/config-overlock1-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
@@ -149,6 +157,7 @@
   </a>
   <br/><br/>
   <img alt="Captura de tela" src="https://github.com/overlock1/i3-gaps/blob/master/2020-08-19_i3-gaps_1366x768.png" />
+  <br/><br/>
 </div>
 
 <h1 align="center">Scripts</h1>
@@ -160,6 +169,7 @@
   <br/><br/>
   <p>Desenhe um terminal na tela (alacritty é o padrão).</p>
   <img alt="Aladraw" src="https://github.com/unixwmbr/unixwmbr/blob/master/aladraw.gif" />
+  <br/><br/>
 </div>
 
 <div align="center">
@@ -169,6 +179,7 @@
   <br/><br/>
   <p>Labels de janelas para polybar - bspwm/i3wm.</p>
   <img alt="taskbar" src="https://github.com/odilonscoelho/taskbar/blob/master/print.jpg" />
+  <br/><br/>
 </div>
 
 <h2 align="center">Contributing</h2>

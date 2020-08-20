@@ -42,6 +42,7 @@ Para:
   </a>
   <br /><br />
   <img alt="Captura de tela / Gif" src="{Link para sua captura de tela / Gif}" />
+  <br/><br/>
 </div>
 ```
 
@@ -61,5 +62,6 @@ Para:
     gif de amostra, se houver}. Caso for barra não precisa incluir paragrafo.
   </p>
   <img alt="Captura de tela / Gif" src="{Link para captura de tela / Gif}" />
+  <br/><br/>
 </div>
 ```
