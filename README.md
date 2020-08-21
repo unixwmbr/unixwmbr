@@ -27,7 +27,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-pallete-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/jyeno/dotfiles">
+  <a href="https://github.com/jyeno/dotfiles/tree/master/config/sway">
     <img alt="Captura de tela" src="https://raw.githubusercontent.com/jyeno/dotfiles/master/screenshot.png" />
   </a>
   <br/><br/>
@@ -50,7 +50,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-Minimalist_world-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway">
+  <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/config">
     <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/sway.png" />
   <br/><br/>
   <a href="https://github.com/i3/i3">
@@ -60,7 +60,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-Minimalist_world-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3">
+  <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/config">
     <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/i3.png" />
   </a>
   <br/><br/>
@@ -83,7 +83,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/fffranks/dotfiles">
+  <a href="https://github.com/fffranks/dotfiles/tree/master/.config/i3/config">
     <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-GAPS.png" />
     <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-LOCK.png" />
   </a>
@@ -107,7 +107,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/odilonscoelho/dots">
+  <a href="https://github.com/odilonscoelho/dots/blob/master/bspwmrc">
     <img alt="Captura de tela" src="https://github.com/odilonscoelho/dots/blob/master/print.jpg" />
   </a>
   <br/><br/>
@@ -130,7 +130,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-pywal-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/pedrkw/dotfiles">
+  <a href="https://github.com/pedrkw/dotfiles/blob/master/.config/i3/config">
    <img alt="Captura de tela" src="https://github.com/pedrkw/dotfiles/blob/master/Imagens/screenshots/i3config.png" />
   </a>
   <br/><br/>
@@ -153,7 +153,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-Purple_Mountain-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/alisonamerico/dotfiles">
+  <a href="https://github.com/alisonamerico/dotfiles/blob/master/.config/i3/config">
     <img alt="Captura de tela" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/desktop.png" />
     <img alt="Terminais" src="https://github.com/alisonamerico/dotfiles/blob/master/.images/terminals.png" />
   </a>
@@ -177,7 +177,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-nord-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/zSucrilhos/dotfiles">
+  <a href="https://github.com/zSucrilhos/dotfiles/blob/Lyra/nord_darkest/.config/bspwm/bspwmrc">
     <img alt="Captura de tela" src="https://github.com/zSucrilhos/dotfiles/blob/master/artworks/wallpapers/Nord/busy.png" />
   </a>
   <br/><br/>
@@ -200,7 +200,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-solarized-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://gitlab.com/nwildner/dotfiles">
+  <a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/config">
     <img alt="Captura de tela" src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" />
   </a>
   <br/><br/>
@@ -223,7 +223,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/overlock1/i3-gaps">
+  <a href="https://github.com/overlock1/i3-gaps/blob/master/i3/config">
     <img alt="Captura de tela" src="https://github.com/overlock1/i3-gaps/blob/master/2020-08-19_i3-gaps_1366x768.png" />
   </a>
   <br/><br/>
