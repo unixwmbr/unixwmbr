@@ -47,7 +47,7 @@
     <img alt="WM" src="https://img.shields.io/badge/WM-sway-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/carlosd-ss/dotfiles">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-Minimalist_world-%2322252f?style=for-the-badge" />
+    <img alt="Tema" src="https://img.shields.io/badge/tema-Arch_Gruvbox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/config">
@@ -57,7 +57,7 @@
     <img alt="WM" src="https://img.shields.io/badge/WM-i3-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/carlosd-ss/dotfiles">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-Minimalist_world-%2322252f?style=for-the-badge" />
+    <img alt="Tema" src="https://img.shields.io/badge/tema-Arch_Gruvbox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/config">
