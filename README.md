@@ -253,35 +253,9 @@
   <br/><br/>
 </div>
 
-<h1 align="center">Scripts</h1>
-
-<div align="center">
-  <a href="https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh">
-    <img alt="Script" src="https://img.shields.io/badge/nome-termdraw-%2322252f?style=for-the-badge" />
-  </a>
-  <br/><br/>
-  <p>Desenhe um terminal na tela (alacritty é o padrão).</p>
-  <a href="https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh">
-    <img alt="Aladraw" src="https://github.com/unixwmbr/unixwmbr/blob/master/aladraw.gif" />
-  </a>
-  <br/><br/>
-</div>
-
 ---
-
-<div align="center">
-  <a href="https://github.com/odilonscoelho/taskbar">
-    <img alt="Script" src="https://img.shields.io/badge/nome-taskbar-%2322252f?style=for-the-badge" />
-  </a>
-  <br/><br/>
-  <p>Labels de janelas para polybar - bspwm/i3wm.</p>
-  <a href="https://github.com/odilonscoelho/taskbar">
-    <img alt="taskbar" src="https://github.com/odilonscoelho/taskbar/blob/master/print.jpg" />
-  </a>
-  <br/><br/>
-</div>
 
 <h2 align="center">Contribuindo</h2>
 <p>
     Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua configuração, scripts ou bars. Veja a seção <a href="https://github.com/unixwmbr/unixwmbr/blob/master/CONTRIBUTING.md">Contribuindo</a> para mais detalhes e você pode também falar com os membros do grupo.
-</P>
+</p>
