@@ -141,7 +141,4 @@
 
 ---
 
-<h2 align="center">Contribuindo</h2>
-<p>
-    Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua configuração, scripts ou bars. Veja a seção <a href="https://github.com/unixwmbr/unixwmbr/blob/master/CONTRIBUTING.md">Contribuindo</a> para mais detalhes e você pode também falar com os membros do grupo.
-</p>
+## [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
