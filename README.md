@@ -12,9 +12,9 @@
 
 <h1 align="center">Dotfiles</h1>
 
-- [i3 & i3-gaps](#i3/README.md)
-- [BSPWM](#bspwm/README.md)
-- [Sway](#sway/README.md)
+- [i3 & i3-gaps](i3/README.md)
+- [BSPWM](bspwm/README.md)
+- [Sway](sway/README.md)
 
 <h2 align="center">Contribuindo</h2>
 
