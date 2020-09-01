@@ -141,4 +141,24 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/marcospb19">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-marcospb19-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/marcospb19/dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Airblader/i3">
+    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/overlock1/i3-gaps/blob/master/i3/config">
+    <img alt="Captura de tela" src="https://i.imgur.com/F0D8jUk.png" />
+  </a>
+  <br/><br/>
+</div>
+
+---
+
 ## [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
