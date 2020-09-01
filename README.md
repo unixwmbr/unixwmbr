@@ -52,6 +52,7 @@
   <br/><br/>
   <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/config">
     <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/sway.png" />
+  </a>
   <br/><br/>
   <a href="https://github.com/i3/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3-%2322252f?style=for-the-badge" />
@@ -282,5 +283,5 @@
 
 <h2 align="center">Contribuindo</h2>
 <p>
-    Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua configuração, scripts ou bars. Veja a sessão <a href="https://github.com/unixwmbr/unixwmbr/blob/master/CONTRIBUTING.md">Contribuindo</a> para mais detalhes e você pode também falar com os membros do grupo.
+    Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua configuração, scripts ou bars. Veja a seção <a href="https://github.com/unixwmbr/unixwmbr/blob/master/CONTRIBUTING.md">Contribuindo</a> para mais detalhes e você pode também falar com os membros do grupo.
 </P>
