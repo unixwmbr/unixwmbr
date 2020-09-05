@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Unixwmbr" src="unixwmbr_logo.png" width="400" />
+    <img alt="Unixwmbr" src="unixwmbr_banner.png" width="100%" />
     <br/><br/>
     <h3>Repositório de amostra de dotfiles do grupo Unixwmbr.</h3>
 </div>
