@@ -16,6 +16,8 @@
 - [BSPWM](bspwm/README.md)
 - [Sway](sway/README.md)
 
+<h1 align="center">Bars</h1>
+
 <h2 align="center">Contribuindo</h2>
 
 Para adicionar sua configuração, você pode falar com o pessoal no [grupo do telegram](https://t.me/unixwmbr) e então fazer um Pull
