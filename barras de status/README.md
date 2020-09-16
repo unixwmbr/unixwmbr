@@ -14,5 +14,5 @@
 ## i3Blocks
 
 <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
-    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
+    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
 </a>
