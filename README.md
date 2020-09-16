@@ -22,7 +22,7 @@
 
 ## [Config](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
 
-<img src="/screenshots/Polybar TOP.png" />
+<img alt ="Polybar" src="/screenshots/Polybar TOP.png" width=100%" />
 
 <h2 align="center">Contribuindo</h2>
 
