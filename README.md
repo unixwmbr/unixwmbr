@@ -18,7 +18,7 @@
 
 <h1 align="center">Bars</h1>
 
-- [Barras de status](https://github.com/unixwmbr/unixwmbr/blob/master/barras/README.md)
+- [Barras de status](https://github.com/unixwmbr/unixwmbr/blob/master/barras%20de%20status/README.md)
 
 <h2 align="center">Contribuindo</h2>
 
