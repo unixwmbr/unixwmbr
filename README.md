@@ -17,6 +17,7 @@
 - [Sway](sway/README.md)
 
 <h1 align="center">Bars</h1>
+
 ## Polybar
 
 ## [Config](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
