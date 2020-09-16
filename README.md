@@ -18,7 +18,7 @@
 
 <h1 align="center">Bars</h1>
 
-## [Polybar](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
+## [Polybar](https://github.com/unixwmbr/unixwmbr/tree/master/polybar)
 
 <h2 align="center">Contribuindo</h2>
 
