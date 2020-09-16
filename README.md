@@ -22,8 +22,6 @@
 
 ## [Config](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
 
-<img alt ="Polybar" src="/screenshots/Polybar TOP.png" width=100%" />
-
 <h2 align="center">Contribuindo</h2>
 
 Para adicionar sua configuração, você pode falar com o pessoal no [grupo do telegram](https://t.me/unixwmbr) e então fazer um Pull
