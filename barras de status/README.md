@@ -1,17 +1,17 @@
-## Polybar
+<h1 align="center">Polybar</h1>
 
 <a href="https://github.com/fffranks/dotfiles/tree/master/.config/polybar">
     <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png">
     <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/PB.png">
 </a>
     
-## Waybar
+<h1 align="center">Waybar</h1>
 
 <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar">
     <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
 </a>
     
-## i3Blocks
+<h1 align="center">i3Blocks</h1>
 
 <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
     <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
