@@ -20,6 +20,8 @@
 
 ## [Polybar](https://github.com/unixwmbr/unixwmbr/tree/master/polybar)
 
+## [Waybar](https://github.com/unixwmbr/unixwmbr/tree/master/waybar)
+
 <h2 align="center">Contribuindo</h2>
 
 Para adicionar sua configuração, você pode falar com o pessoal no [grupo do telegram](https://t.me/unixwmbr) e então fazer um Pull
