@@ -1,7 +1,7 @@
 ## [Config](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
 
 <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png">
-<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20BOTTOM.png">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20Bottom.png">
 
 ## [Config](https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks)
 
