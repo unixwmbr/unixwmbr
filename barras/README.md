@@ -7,12 +7,12 @@
     
 ## Waybar
 
-#### [Config](https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar)
-
-<img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
-
+<a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar">
+    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
+</a>
+    
 ## i3Blocks
 
-#### [Config](https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks)
-
-<img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
+<a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
+    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
+</a>
