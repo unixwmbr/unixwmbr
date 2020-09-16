@@ -25,6 +25,12 @@
 <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png">
 <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20Bottom.png">
 
+## Waybar
+
+#### [Config](https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar)
+
+<img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
+
 <h2 align="center">Contribuindo</h2>
 
 Para adicionar sua configuração, você pode falar com o pessoal no [grupo do telegram](https://t.me/unixwmbr) e então fazer um Pull
