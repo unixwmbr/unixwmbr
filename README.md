@@ -17,10 +17,11 @@
 - [Sway](sway/README.md)
 
 <h1 align="center">Bars</h1>
+## Polybar
 
-- [Config](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
-- [Polybar - Bottom](https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20BOTTOM.png)
-- [Polybar - Top](https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png)
+## [Config](https://github.com/fffranks/dotfiles/tree/master/.config/polybar)
+
+<img src="/screenshots/Polybar-TOP.png">
 
 <h2 align="center">Contribuindo</h2>
 
