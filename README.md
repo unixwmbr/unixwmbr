@@ -18,9 +18,9 @@
 
 <h1 align="center">Bars</h1>
 
-## [Polybar](https://github.com/unixwmbr/unixwmbr/tree/master/polybar)
-
-## [Waybar](https://github.com/unixwmbr/unixwmbr/tree/master/waybar)
+## Polybar
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png">
+<img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20Bottom.png">
 
 <h2 align="center">Contribuindo</h2>
 
