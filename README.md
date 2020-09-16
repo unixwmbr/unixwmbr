@@ -31,6 +31,12 @@
 
 <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
 
+## i3Blocks
+
+#### [Config](https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks)
+
+<img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
+
 <h2 align="center">Contribuindo</h2>
 
 Para adicionar sua configuração, você pode falar com o pessoal no [grupo do telegram](https://t.me/unixwmbr) e então fazer um Pull
