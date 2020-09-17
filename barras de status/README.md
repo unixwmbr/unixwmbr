@@ -4,7 +4,11 @@
     <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png">
     <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/PB.png">
 </a>
-    
+
+<a href="https://github.com/overlock1/polybar">
+    <img src="https://github.com/overlock1/polybar/blob/master/2020-09-17_19-46.png">
+</a>
+
 <h1 align="center">Waybar</h1>
 
 <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar">
