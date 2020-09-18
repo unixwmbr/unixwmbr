@@ -13,6 +13,12 @@
     <img src="https://github.com/overlock1/polybar/blob/master/2020-09-17_19-46.png">
 </a>
 
+#### [cruzjp](https://gitlab.com/cruzjp)
+
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/polybar/config">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/screenshots/polybar1.png">
+</a>
+
 <h1 align="center">Waybar</h1>
 
 #### [carlosd-ss](https://github.com/carlosd-ss)
