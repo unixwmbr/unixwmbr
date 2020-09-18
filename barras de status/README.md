@@ -28,3 +28,11 @@
 <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
     <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
 </a>
+
+<h1 align="center">Bumblebee-status</h1>
+
+#### [Nícolas Wildner](https://gitlab.com/nwildner)
+
+<a href="https://gitlab.com/nwildner">
+    <img src="https://gitlab.com/nwildner/dotfiles/-/blob/master/bar.png">
+</a>
