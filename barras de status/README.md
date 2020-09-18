@@ -34,5 +34,5 @@
 #### [Nícolas Wildner](https://gitlab.com/nwildner)
 
 <a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/config#L191">
-    <img src="https://gitlab.com/nwildner/dotfiles/-/blob/master/bar.png">
+    <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
 </a>
