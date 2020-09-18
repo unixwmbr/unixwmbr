@@ -34,5 +34,5 @@
 #### [Nícolas Wildner](https://gitlab.com/nwildner)
 
 <a href="https://gitlab.com/nwildner">
-    <img src="https://gitlab.com/nwildner/dotfiles/-/blob/c17cdf0feb7d795e9de60b29a8b2a63805aa124a/bar.png">
+    <img src="https://gitlab.com/nwildner/dotfiles/-/blob/master/bar.png">
 </a>
