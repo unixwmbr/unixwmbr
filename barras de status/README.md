@@ -19,6 +19,12 @@
     <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/screenshots/polybar1.png">
 </a>
 
+#### [losaoall](https://github.com/odilonscoelho)
+
+<a href="https://github.com/odilonscoelho/dots/tree/master/polybar">
+    <img src="https://raw.githubusercontent.com/odilonscoelho/dots/master/bars.png">
+</a>
+
 <h1 align="center">Waybar</h1>
 
 #### [carlosd-ss](https://github.com/carlosd-ss)
