@@ -1,3 +1,27 @@
+<h1 align="center">Bumblebee-status</h1>
+
+#### [Nícolas Wildner](https://gitlab.com/nwildner)
+
+<a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/config#L191">
+    <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
+</a>
+
+<h1 align="center">i3Blocks</h1>
+
+#### [carlosd-ss](https://github.com/carlosd-ss)
+
+<a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
+    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
+</a>
+
+<h1 align="center">i3Status</h1>
+
+#### [ovelock1](https://github.com/overlock1)
+
+<a href="https://github.com/overlock1/i3status-colorido/blob/master/i3status/config">
+    <img src="https://raw.githubusercontent.com/overlock1/i3status-colorido/master/i3status.png">
+</a>
+
 <h1 align="center">Polybar</h1>
 
 #### [fffranks](https://github.com/fffranks)
@@ -31,20 +55,4 @@
 
 <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar">
     <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
-</a>
-    
-<h1 align="center">i3Blocks</h1>
-
-#### [carlosd-ss](https://github.com/carlosd-ss)
-
-<a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
-    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
-</a>
-
-<h1 align="center">Bumblebee-status</h1>
-
-#### [Nícolas Wildner](https://gitlab.com/nwildner)
-
-<a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/config#L191">
-    <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
 </a>
