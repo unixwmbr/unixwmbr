@@ -22,6 +22,12 @@
     <img src="https://raw.githubusercontent.com/overlock1/i3status-colorido/master/i3status.png">
 </a>
 
+#### [carlosd-ss](https://github.com/carlosd-ss)
+
+<a href="https://github.com/carlosd-ss/dotfiles/blob/master/i3status/config">
+    <img src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/bar.png">
+</a>
+
 <h1 align="center">Polybar</h1>
 
 #### [fffranks](https://github.com/fffranks)
@@ -40,7 +46,7 @@
 #### [cruzjp](https://gitlab.com/cruzjp)
 
 <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/polybar/config">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/screenshots/polybar1.png">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/polybar1.png">
 </a>
 
 #### [losaoall](https://github.com/odilonscoelho)
