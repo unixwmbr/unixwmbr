@@ -43,7 +43,7 @@
     <img src="https://github.com/overlock1/polybar/blob/master/2020-09-17_19-46.png">
 </a>
 
-<a href="https://github.com/overlock1/polybar2/blob/master/polybar.png">
+<a href="https://github.com/overlock1/polybar2/tree/master/polybar">
     <img src="https://github.com/overlock1/polybar2/blob/master/polybar.png">
 </a>
 
