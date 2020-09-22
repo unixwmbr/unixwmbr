@@ -41,8 +41,11 @@
 
 <a href="https://github.com/overlock1/polybar">
     <img src="https://github.com/overlock1/polybar/blob/master/2020-09-17_19-46.png">
-    <img src="https://github.com/overlock1/polybar2/blob/master/polybar.png">
 </a>
+
+<a href="https://github.com/overlock1/polybar2/tree/master/polybar">
+    <img src="https://github.com/overlock1/polybar2/blob/master/polybar.png">
+<\a>
 
 #### [cruzjp](https://gitlab.com/cruzjp)
 
