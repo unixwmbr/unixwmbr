@@ -184,4 +184,28 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/jeffinshadow">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-jeffinshadow-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/jeffinshadow/i3-dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Airblader/i3">
+    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/nana-4/materia-theme">
+    <img alt="Tema" src="https://img.shields.io/badge/tema-materia-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/jeffinshadow/i3-dotfiles/blob/master/.config/i3/config">
+    <img alt="Captura de tela" src="https://raw.githubusercontent.com/jeffinshadow/i3-dotfiles/master/readmepictures/i3polybar.png" />
+    <img alt="urxvt" src="https://raw.githubusercontent.com/jeffinshadow/i3-dotfiles/master/readmepictures/urxvt.png" />
+  </a>
+  <br/><br/>
+</div>
+
+---
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
