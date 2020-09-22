@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://github.com/overlock1/polybar2">
-    <img src="https://github.com/overlock1/polybar2/blob/master/polybar.png">
+    <img src="https://github.com/overlock1/polybar2/tree/master/polybar">
 </a>
 
 #### [cruzjp](https://gitlab.com/cruzjp)
