@@ -17,7 +17,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/config">
-    <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/i3.png" />
+    <img alt="Captura de tela" src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/gruv.png" />
   </a>
   <br/><br/>
 </div>

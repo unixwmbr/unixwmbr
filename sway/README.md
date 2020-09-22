@@ -39,7 +39,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/config">
-    <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/sway.png" />
+    <img alt="Captura de tela" src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/gruv.png" />
   </a>
   <br/><br/>
 </div>
