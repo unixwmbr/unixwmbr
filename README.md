@@ -15,6 +15,7 @@
 - [i3 & i3-gaps](i3/README.md)
 - [BSPWM](bspwm/README.md)
 - [Sway](sway/README.md)
+- [Qtile](qtile/README.md)
 
 <h1 align="center">Bars</h1>
 
