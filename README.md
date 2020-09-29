@@ -17,7 +17,11 @@
 - [Sway](sway/README.md)
 - [Qtile](qtile/README.md)
 
-<h1 align="center">Bars</h1>
+<h1 align="center">Scripts</h1>
+
+- [Scripts](https://github.com/unixwmbr/unixwmbr/blob/master/scripts/README.md)
+
+<h1 align="center">Barras</h1>
 
 - [Barras de status](https://github.com/unixwmbr/unixwmbr/blob/master/barras%20de%20status/README.md)
 
