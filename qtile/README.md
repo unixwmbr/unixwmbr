@@ -1,10 +1,9 @@
---------------
-
 <h1 align="center">Qtile</h1>
 <div align="center">
   <a href="https://github.com/diego-rapoport">
-    <img src="https://img.shields.io/badge/usuário-diego-rapoport-%232c3e50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/usuário-diego_rapoport-%232c3e50?style=for-the-badge" />
   </a>
+
   <br/>
   <a href="https://github.com/diego-rapoport/dotfiles">
     <img
