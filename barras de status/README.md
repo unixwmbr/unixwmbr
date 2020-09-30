@@ -6,8 +6,6 @@
     <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
 </a>
 
-<h1 align="center">i3Blocks</h1>
-
 
 <h1 align="center">i3Status</h1>
 
