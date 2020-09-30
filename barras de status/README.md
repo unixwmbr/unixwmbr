@@ -53,5 +53,5 @@
     <img src="https://raw.githubusercontent.com/odilonscoelho/dots/master/bars.png">
 </a>
 
-<h1 align="center">Waybar</h1>
+
 
