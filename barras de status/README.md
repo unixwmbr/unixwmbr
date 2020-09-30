@@ -8,11 +8,6 @@
 
 <h1 align="center">i3Blocks</h1>
 
-#### [carlosd-ss](https://github.com/carlosd-ss)
-
-<a href="https://github.com/carlosd-ss/dotfiles/tree/master/i3/i3blocks">
-    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/i3bar.png">
-</a>
 
 <h1 align="center">i3Status</h1>
 
@@ -22,13 +17,14 @@
     <img src="https://raw.githubusercontent.com/overlock1/i3status-colorido/master/i3status.png">
 </a>
 
+
+<h1 align="center">Polybar</h1>
+
 #### [carlosd-ss](https://github.com/carlosd-ss)
 
 <a href="https://github.com/carlosd-ss/dotfiles/blob/master/i3status/config">
     <img src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/bar.png">
 </a>
-
-<h1 align="center">Polybar</h1>
 
 #### [fffranks](https://github.com/fffranks)
 
@@ -61,8 +57,3 @@
 
 <h1 align="center">Waybar</h1>
 
-#### [carlosd-ss](https://github.com/carlosd-ss)
-
-<a href="https://github.com/carlosd-ss/dotfiles/tree/master/sway/waybar">
-    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/waybar.png">
-</a>
