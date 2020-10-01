@@ -58,10 +58,11 @@
   </a>
   <br /><br />
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/config.py">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/2020-10-01_qtile.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/2020-10-01_qtile.png" />
   </a>
   <br/><br/>
 </div>
+
 ---
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
