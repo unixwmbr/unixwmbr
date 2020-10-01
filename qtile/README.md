@@ -58,7 +58,7 @@
   </a>
   <br /><br />
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/config.py">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/2020-10-01_qtile.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/85d518ded4530b750bccb6c92b9f8931b76f3c66/qtile/2020-10-01_qtile.png" />
   </a>
   <br/><br/>
 </div>
