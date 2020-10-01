@@ -156,7 +156,7 @@
   </a>
   <br/><br/>
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3config">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/rice_2020-08-15.png" />
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3/rice_2020-08-15.png" />
   </a>
   <br/><br/>
 </div>
