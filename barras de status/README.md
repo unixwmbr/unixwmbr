@@ -1,8 +1,8 @@
-<h1 align="center">Bumblebee-status</h1>
+<h1 align="center">i3status-rust</h1>
 
 #### [Nícolas Wildner](https://gitlab.com/nwildner)
 
-<a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/config#L191">
+<a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/i3status.toml">
     <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
 </a>
 
