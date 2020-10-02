@@ -53,5 +53,12 @@
     <img src="https://raw.githubusercontent.com/odilonscoelho/dots/master/bars.png">
 </a>
 
+<h1 align="center">Barra do qtile</h1>
+
+#### [cruzjp](https://gitlab.com/cruzjp/my-dotfiles)
+
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/config.py#L155">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/qtile/2020-10-01_qtilebar.png">
+</a>
 
 
