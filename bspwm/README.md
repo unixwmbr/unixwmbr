@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://github.com/carlosd-ss">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-carlosd-ss-%2322252f?style=for-the-badge" />
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-carlosdss-%2322252f?style=for-the-badge" />
   </a>
   <br/>
   <a href="https://github.com/carlosd-ss/dotfiles">
