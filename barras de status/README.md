@@ -15,23 +15,15 @@
     <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
 </a>
 
-
 <h1 align="center">i3Status</h1>
-
-#### [ovelock1](https://github.com/overlock1)
-
-<a href="https://github.com/overlock1/i3status-colorido/blob/master/i3status/config">
-    <img src="https://raw.githubusercontent.com/overlock1/i3status-colorido/master/i3status.png">
-</a>
-
-
-<h1 align="center">Polybar</h1>
 
 #### [carlosd-ss](https://github.com/carlosd-ss)
 
 <a href="https://github.com/carlosd-ss/dotfiles/blob/master/i3status/config">
     <img src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/bar.png">
 </a>
+
+<h1 align="center">Polybar</h1>
 
 #### [fffranks](https://github.com/fffranks)
 
