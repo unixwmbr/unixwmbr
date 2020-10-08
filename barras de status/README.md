@@ -23,6 +23,12 @@
     <img src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/bar.png">
 </a>
 
+#### [overlock1](https://github.com/overlock1)
+
+<a href="https://github.com/overlock1/Dotfiles/blob/master/.config/i3status-colorido/i3status/config">
+    <img src="https://raw.githubusercontent.com/overlock1/Dotfiles/master/.config/i3status-colorido/i3status.png">
+</a>
+
 <h1 align="center">Polybar</h1>
 
 #### [fffranks](https://github.com/fffranks)
@@ -30,6 +36,16 @@
 <a href="https://github.com/fffranks/dotfiles/tree/master/.config/polybar">
     <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/Polybar%20TOP.png">
     <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/PB.png"> 
+</a>
+
+#### [overlock1](https://github.com/overlock1)
+
+<a href="https://github.com/overlock1/Dotfiles/tree/master/.config/polybar">
+    <img src="https://raw.githubusercontent.com/overlock1/Dotfiles/master/.config/polybar/dock.png">
+</a>
+
+<a href="https://github.com/overlock1/Dotfiles/tree/master/.config/polybar2/polybar">
+    <img src="https://raw.githubusercontent.com/overlock1/Dotfiles/master/.config/polybar2/polybar.png">
 </a>
 
 #### [cruzjp](https://gitlab.com/cruzjp)
@@ -43,3 +59,5 @@
 <a href="https://github.com/odilonscoelho/dots/tree/master/polybar">
     <img src="https://raw.githubusercontent.com/odilonscoelho/dots/master/bars.png">
 </a>
+
+#### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
