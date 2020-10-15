@@ -3,7 +3,7 @@
 #### [cruzjp](https://gitlab.com/cruzjp/my-dotfiles)
 
 <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/config.py#L148">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/qtile/2020-10-01_qtilebar.png">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/qtile/2020-10-15_qtilebar.png">
 </a>
 
 
@@ -13,6 +13,12 @@
 
 <a href="https://gitlab.com/nwildner/dotfiles/-/blob/master/home/nwildner/.config/i3/i3status.toml">
     <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/bar.png">
+</a>
+
+#### [cruzjp](https://gitlab.com/cruzjp)
+
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/status.toml">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/2020-10-15_i3status-rust.png">
 </a>
 
 <h1 align="center">i3Status</h1>
@@ -51,7 +57,7 @@
 #### [cruzjp](https://gitlab.com/cruzjp)
 
 <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/polybar/config">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/2020-10-13_polybar.png">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/2020-10-15_polybar.png">
 </a>
 
 #### [losaoall](https://github.com/odilonscoelho)
