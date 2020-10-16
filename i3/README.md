@@ -156,8 +156,8 @@
   </a>
   <br/><br/>
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/config">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/2020-10-15_i3.png" />
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/2020-10-15_i32.png" />
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/i3.png" />
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/i32.png" />
   </a>
   <br/><br/>
 </div>
