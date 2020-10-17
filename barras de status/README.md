@@ -21,6 +21,12 @@
     <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/i3status-rust.png">
 </a>
 
+### [jyeno](https://github.com/jyeno)
+
+<a href="https://github.com/jyeno/dotfiles/blob/master/config/sway/status.toml">
+    <img src="https://raw.githubusercontent.com/jyeno/dotfiles/master/i3status-rs.png">
+</a>
+
 <h1 align="center">i3Status</h1>
 
 #### [carlosd-ss](https://github.com/carlosd-ss)
