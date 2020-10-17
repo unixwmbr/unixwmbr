@@ -17,8 +17,8 @@
 
 ### [cruzjp](https://gitlab.com/cruzjp)
 
-<a href="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/status.toml">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3status-rust.png">
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/status.toml">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/i3status-rust.png">
 </a>
 
 <h1 align="center">i3Status</h1>
