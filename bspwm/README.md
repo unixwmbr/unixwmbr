@@ -85,8 +85,8 @@
   </a>
   <br/><br/>
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/bspwm/bspwmrc">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/2020-10-12_bspwm.png" />
-    <img alt="Terminais" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/2020-10-12_bspwm2.png" />
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/bspwm.png" />
+    <img alt="Terminais" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/bspwm2.png" />
   </a>
   <br/><br/>
 </div>
