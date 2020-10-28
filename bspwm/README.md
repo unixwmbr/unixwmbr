@@ -80,13 +80,12 @@
   <a href="https://github.com/baskerville/bspwm/">
     <img alt="WM" src="https://img.shields.io/badge/WM-bspwm-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://github.com/dylanaraps/pywal">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-pywal-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/themix-project/oomox">
+    <img alt="Tema" src="https://img.shields.io/badge/tema-oomox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/bspwm/bspwmrc">
     <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/bspwm.png" />
-    <img alt="Terminais" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/bspwm2.png" />
   </a>
   <br/><br/>
 </div>
