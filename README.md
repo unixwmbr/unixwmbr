@@ -17,6 +17,7 @@
 - [Sway](sway/README.md)
 - [Qtile](qtile/README.md)
 - [Herbstluftwm](herbstluftwm/README.md)
+- [Dwm](dwm/README.md)
 
 <h1 align="center">Scripts</h1>
 
