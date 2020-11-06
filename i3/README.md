@@ -19,9 +19,9 @@
   </a>
   <br/><br/>
   <a href="https://github.com/fffranks/dotfiles/tree/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/i3-dracula.png" />
-    <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/lock-dracula.png" />
-    <img alt="NeoVIM" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/nvim-dracula.png" />
+    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/grubox-i3.png" />
+    <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/gruvbox-i3lock.png" />
+    <img alt="NeoVIM" src="https://github.com/fffranks/dotfiles/blob/master/screenshots/gruvbox-nvim.png" />
   </a>
   <br/><br/>
 </div>
