@@ -182,6 +182,7 @@
   <a href="https://github.com/jeffinshadow/i3-dotfiles/blob/master/.config/i3/config">
     <img alt="Captura de tela" src="https://raw.githubusercontent.com/jeffinshadow/i3-dotfiles/master/readmepictures/i3polybar.png" />
     <img alt="urxvt" src="https://raw.githubusercontent.com/jeffinshadow/i3-dotfiles/master/readmepictures/urxvt.png" />
+    <img alt="urxvt" src="https://raw.githubusercontent.com/jeffinshadow/i3-dotfiles/master/readmepictures/i3lock.png" />
   </a>
   <br/><br/>
 </div>
