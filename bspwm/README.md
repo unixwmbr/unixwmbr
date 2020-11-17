@@ -107,7 +107,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-materia_manjaro-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/gabrielcaussi/.dotfiles">
+  <a href="https://github.com/gabrielcaussi/.dotfiles/tree/main/.config/bspwm">
     <img alt="Captura de tela" src="https://github.com/gabrielcaussi/.dotfiles/blob/main/screenshots/bspwm-gabrielcaussi.png" />
   </a>
   <br/><br/>
