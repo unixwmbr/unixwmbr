@@ -157,7 +157,7 @@
   </a>
   <br/><br/>
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/config">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/i3.png" />
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/i3/i3.png" />
   </a>
   <br/><br/>
 </div>
