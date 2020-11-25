@@ -156,7 +156,7 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-pywal-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/config">
+  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/i3/config">
     <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/i3/i3.png" />
   </a>
   <br/><br/>
