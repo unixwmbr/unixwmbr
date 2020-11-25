@@ -57,8 +57,8 @@
     />
   </a>
   <br /><br />
-  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/config.py">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/qtile/qtile.png" />
+  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/qtile/config.py">
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/qtile/qtile.png" />
   </a>
   <br/><br/>
 </div>
