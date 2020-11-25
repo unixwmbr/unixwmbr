@@ -2,10 +2,16 @@
 
 #### [cruzjp](https://gitlab.com/cruzjp/my-dotfiles)
 
-<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/qtile/config.py#L148">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/qtile/qtilebar.png">
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/qtile/config.py#L148">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/qtile/qtilebar.png">
 </a>
 
+<h1 align="center">Dwmblocks</h1>
+
+#### [cruzjp](https://gitlab.com/cruzjp/my-dotfiles)
+
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/dwmblocks">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/dwmblocks/dwmblocks.png">
 
 <h1 align="center">i3status-rust</h1>
 
@@ -17,8 +23,8 @@
 
 ### [cruzjp](https://gitlab.com/cruzjp)
 
-<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/i3_i3status-rust/status.toml">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/i3_i3status-rust/i3status-rust.png">
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/i3status-rust/status.toml">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/i3status-rust/i3status-rust.png">
 </a>
 
 ### [jyeno](https://github.com/jyeno)
@@ -62,8 +68,8 @@
 
 #### [cruzjp](https://gitlab.com/cruzjp)
 
-<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/polybar/config">
-    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/polybar/polybar.png">
+<a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/polybar/config">
+    <img src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/polybar/polybar.png">
 </a>
 
 #### [losaoall](https://github.com/odilonscoelho)
