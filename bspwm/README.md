@@ -84,8 +84,8 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-oomox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/bspwm/bspwmrc">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/bspwm/bspwm.png" />
+  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/bspwm/bspwmrc">
+    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/bspwm/bspwm.png" />
   </a>
   <br/><br/>
 </div>
