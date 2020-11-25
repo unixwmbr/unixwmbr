@@ -88,7 +88,7 @@
   </a>
   <br /><br />
   <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/dwm">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/dwm/dwm.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/dwm/dwm.png" />
   </a>
   <br/><br/>
 </div>
