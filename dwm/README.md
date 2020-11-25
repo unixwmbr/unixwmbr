@@ -61,4 +61,36 @@
   <br/><br/>
 </div>
 
+----------------
+
+<div align="center">
+  <a href="https://gitlab.com/cruzjp">
+    <img src="https://img.shields.io/badge/usuário-cruzjp-%232c3e50?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/cruzjp/my-dotfiles">
+    <img
+      alt="Dotfiles"
+      src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
+    />
+  </a>
+  <a href="https://dwm.suckless.org/">
+    <img
+      alt="WM"
+      src="https://img.shields.io/badge/wm-dwm-%235352ed?style=for-the-badge"
+    />
+  </a>
+  <a href="https://draculatheme.com/">
+    <img
+      alt="Tema"
+      src="https://img.shields.io/badge/tema-dracula-%232ed573?style=for-the-badge"
+    />
+  </a>
+  <br /><br />
+  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/dwm">
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/dwm/dwm.png" />
+  </a>
+  <br/><br/>
+</div>
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
