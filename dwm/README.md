@@ -16,10 +16,10 @@
       src="https://img.shields.io/badge/wm-dwm-%235352ed?style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/jan-warchol/selenized">
+  <a href="https://github.com/adigitoleo/vim-mellow">
     <img
       alt="Tema"
-      src="https://img.shields.io/badge/tema-selenized-%232ed573?style=for-the-badge"
+      src="https://img.shields.io/badge/tema-mellow-%232ed573?style=for-the-badge"
     />
   </a>
   <br /><br />
