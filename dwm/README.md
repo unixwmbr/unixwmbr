@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/usuário-sabactani-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/toniz4/dotfiles">
+  <a href="https://notabug.org/sabactani/dwm">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
