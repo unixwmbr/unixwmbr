@@ -19,7 +19,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/fffranks/dotfiles/tree/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3lock-nord.png" />
+    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3-nord.png" />
     <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3lock-nord.png" />
     <img alt="NeoVIM" src="https://github.com/fffranks/dotfiles/blob/master/custom/neovim-nord.png" />
   </a>
