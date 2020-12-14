@@ -14,14 +14,14 @@
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://github.com/arcticicestudio">
-    <img alt="Tema" src="https://img.shields.io/badge/Nord-Theme-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/morhetz/gruvbox">
+    <img alt="Tema" src="https://img.shields.io/badge/GruvBox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <a href="https://github.com/fffranks/dotfiles/tree/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3-nord.png" />
-    <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3lock-nord.png" />
-    <img alt="NeoVIM" src="https://github.com/fffranks/dotfiles/blob/master/custom/neovim-nord.png" />
+    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3.png" />
+    <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/custom/lock.png" />
+    <img alt="NeoVIM" src="https://github.com/fffranks/dotfiles/blob/master/custom/neovimm.png" />
   </a>
   <br/><br/>
 </div>
