@@ -70,29 +70,6 @@
 ---
 
 <div align="center">
-  <a href="https://gitlab.com/cruzjp">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-cruzjp-%2322252f?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://gitlab.com/cruzjp/my-dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/baskerville/bspwm/">
-    <img alt="WM" src="https://img.shields.io/badge/WM-bspwm-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/themix-project/oomox">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-oomox-%2322252f?style=for-the-badge" />
-  </a>
-  <br/><br/>
-  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/bspwm/bspwmrc">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/bspwm/bspwm.png" />
-  </a>
-  <br/><br/>
-</div>
-
----
-
-<div align="center">
   <a href="https://github.com/gabrielcaussi">
     <img alt="Dots" src="https://img.shields.io/badge/usuário-gabrielcaussi-%2322252f?style=for-the-badge" />
   </a>
