@@ -142,29 +142,6 @@
 ---
 
 <div align="center">
-  <a href="https://gitlab.com/cruzjp">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-cruzjp-%2322252f?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://gitlab.com/cruzjp/my-dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Airblader/i3">
-    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/dylanaraps/pywal">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-pywal-%2322252f?style=for-the-badge" />
-  </a>
-  <br/><br/>
-  <a href="https://gitlab.com/cruzjp/my-dotfiles/-/blob/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://gitlab.com/cruzjp/my-dotfiles/-/raw/master/.config/i3/i3.png" />
-  </a>
-  <br/><br/>
-</div>
-
----
-
-<div align="center">
   <a href="https://github.com/jeffinshadow">
     <img alt="Dots" src="https://img.shields.io/badge/usuário-jeffinshadow-%2322252f?style=for-the-badge" />
   </a>
