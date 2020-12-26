@@ -16,10 +16,10 @@
       src="https://img.shields.io/badge/wm-dwm-%235352ed?style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/jan-warchol/selenized">
+  <a href="https://github.com/adigitoleo/vim-mellow">
     <img
       alt="Tema"
-      src="https://img.shields.io/badge/tema-selenized-%232ed573?style=for-the-badge"
+      src="https://img.shields.io/badge/tema-mellow-%232ed573?style=for-the-badge"
     />
   </a>
   <br /><br />
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/usuário-sabactani-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/toniz4/dotfiles">
+  <a href="https://notabug.org/sabactani/dwm">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
