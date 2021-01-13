@@ -67,4 +67,38 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/stenioas">
+    <img src="https://img.shields.io/badge/usuário-stenioas-%232c3e50?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/stenioas/myarch/dotfiles/.config/qtile">
+    <img
+      alt="Dotfiles"
+      src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
+    />
+  </a>
+  <a href="https://github.com/qtile/qtile">
+    <img
+      alt="WM"
+      src="https://img.shields.io/badge/wm-qtile-%235352ed?style=for-the-badge"
+    />
+  </a>
+  <a href="https://github.com/stenioas/myarch/dotfiles/.config/qtile">
+    <img
+      alt="Tema"
+      src="https://img.shields.io/badge/tema-custom-%232ed573?style=for-the-badge"
+    />
+  </a>
+  <br /><br />
+  <a href="https://github.com/stenioas/myarch/dotfiles/.config/qtile">
+    <img alt="Captura de tela" src="https://github.com/stenioas/myarch/screenshots/qtile_desktop.png" />
+    </br>
+    <img alt="Captura de tela" src="https://github.com/stenioas/myarch/screenshots/qtile_layout.png" />
+  </a>
+  <br/><br/>
+</div>
+
+---
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
