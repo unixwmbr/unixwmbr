@@ -92,9 +92,9 @@
   </a>
   <br /><br />
   <a href="https://github.com/stenioas/myarch/dotfiles/.config/qtile">
-    <img alt="Captura de tela" src="https://github.com/stenioas/myarch/screenshots/qtile_desktop.png" />
+    <img alt="Captura de tela" src="https://github.com/stenioas/myarch/blob/master/screenshots/qtile_desktop.png" />
     </br>
-    <img alt="Captura de tela" src="https://github.com/stenioas/myarch/screenshots/qtile_layout.png" />
+    <img alt="Captura de tela" src="https://github.com/stenioas/myarch/blob/master/screenshots/qtile_layout.png" />
   </a>
   <br/><br/>
 </div>
