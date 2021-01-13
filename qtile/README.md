@@ -67,6 +67,7 @@
 
 ---
 
+<h1 align="center">Qtile</h1>
 <div align="center">
   <a href="https://github.com/stenioas">
     <img src="https://img.shields.io/badge/usuário-stenioas-%232c3e50?style=for-the-badge" />
