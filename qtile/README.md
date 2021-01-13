@@ -94,7 +94,7 @@
   <br /><br />
   <a href="https://github.com/stenioas/myarch/tree/master/dotfiles/.config/qtile">
     <img alt="Captura de tela" src="https://github.com/stenioas/myarch/blob/master/screenshots/qtile_desktop.png" />
-    </br>
+    </br></br>
     <img alt="Captura de tela" src="https://github.com/stenioas/myarch/blob/master/screenshots/qtile_layout.png" />
   </a>
   <br/><br/>
