@@ -94,25 +94,25 @@
 
 <div align="center">
   <a href="https://github.com/mafezoli">
-    <img src="https://img.shields.io/badge/usuário-mafezoli-%232c3e50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/usuário-mafezoli-%2322252f?style=for-the-badge" />
   </a>
   <br/>
   <a href="https://github.com/mafezoli/dotfiles">
     <img
       alt="Dotfiles"
-      src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
+      src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge"
     />
   </a>
-  <a href="bspwm">
+  <a href="https://github.com/baskerville/bspwm">
     <img
       alt="WM"
-      src="https://img.shields.io/badge/wm-bspwm-%235352ed?style=for-the-badge"
+      src="https://img.shields.io/badge/wm-bspwm-%2322252f?style=for-the-badge"
     />
   </a>
   <a href="https://github.com/mafezoli/dotfiles">
     <img
       alt="Tema"
-      src="https://img.shields.io/badge/tema-custom-%232ed573?style=for-the-badge"
+      src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge"
     />
   </a>
   <br /><br />
