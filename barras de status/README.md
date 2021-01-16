@@ -57,4 +57,10 @@
     <img src="https://camo.githubusercontent.com/34cd6d12af2a99290453aa04e8cba0ba503552a5/68747470733a2f2f692e696d6775722e636f6d2f696241314533652e706e67">
 </a>
 
+#### [mafezoli](https://github.com/mafezoli)
+
+<a href="https://github.com/mafezoli/dotfiles/tree/main/polybar">
+    <img src="https://raw.githubusercontent.com/mafezoli/dotfiles/main/previews/pimpbarpreview.png">
+</a>
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
