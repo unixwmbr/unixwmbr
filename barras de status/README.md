@@ -28,11 +28,11 @@
 
 <h1 align="center">Polybar</h1>
 
-#### [fffranks](https://github.com/fffranks)
+#### [fraanks](https://github.com/fraanks)
 
 <a href="https://github.com/fffranks/dotfiles/tree/master/.config/polybar">
-    <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/polybar1.png">
-    <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/polybar2.png"> 
+    <img src="https://github.com/fraanks/dotfiles/blob/master/barra-top.png">
+    <img src="https://github.com/fraanks/dotfiles/blob/master/barra-bottom.png"> 
 </a>
 
 #### [overlock1](https://github.com/overlock1)
