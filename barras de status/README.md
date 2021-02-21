@@ -63,4 +63,11 @@
     <img src="https://raw.githubusercontent.com/mafezoli/dotfiles/main/previews/pimpbarpreview.png">
 </a>
 
+#### [k4k4rot0](https://github.com/k4k4rot0)
+
+<a href="https://github.com/k4k4rot0/dotfiles/tree/main/.config/polybar">
+    <img src="https://i.postimg.cc/xCHHRVQk/bartop.png">
+    <img src="https://i.postimg.cc/6qpWQCM9/barbottom.png">
+</a>
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
