@@ -12,13 +12,14 @@
 
 <h1 align="center">Dotfiles</h1>
 
-- [i3 & i3-gaps](i3/README.md)
+- [AwesomeWM](awesome/README.md)
 - [BSPWM](bspwm/README.md)
-- [Sway](sway/README.md)
-- [Qtile](qtile/README.md)
-- [Herbstluftwm](herbstluftwm/README.md)
 - [Dwm](dwm/README.md)
 - [Fvwm](fvwm/README.md)
+- [Herbstluftwm](herbstluftwm/README.md)
+- [i3 & i3-gaps](i3/README.md)
+- [Qtile](qtile/README.md)
+- [Sway](sway/README.md)
 - [Xmonad](xmonad/README.md)
 
 <h1 align="center">Scripts</h1>
