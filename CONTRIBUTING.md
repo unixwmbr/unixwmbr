@@ -25,25 +25,25 @@ Para:
 
 <div align="center">
   <a href="{Link referência para o seu perfil do github/gitlab.}">
-    <img src="https://img.shields.io/badge/usuário-{seu nome de usuário}-%232c3e50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/usuário-{seu nome de usuário}-%2322252f?style=for-the-badge" />
   </a>
   <br/>
   <a href="{Link referência para o seu dotfiles.}">
     <img
       alt="Dotfiles"
-      src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
+      src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge"
     />
   </a>
   <a href="{Link referência para WM.}">
     <img
       alt="WM"
-      src="https://img.shields.io/badge/wm-{nome da wm}-%235352ed?style=for-the-badge"
+      src="https://img.shields.io/badge/wm-{nome da wm}-%2322252f?style=for-the-badge"
     />
   </a>
   <a href="{Link referência para o tema.}">
     <img
       alt="Tema"
-      src="https://img.shields.io/badge/tema-{nome do tema}-%232ed573?style=for-the-badge"
+      src="https://img.shields.io/badge/tema-{nome do tema}-%2322252f?style=for-the-badge"
     />
   </a>
   <br /><br />
