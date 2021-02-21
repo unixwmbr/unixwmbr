@@ -165,4 +165,25 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/k4k4rot0">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-k4k4rot0-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/k4k4rot0/dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Airblader/i3">
+    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/k4k4rot0/dotfiles/blob/main/.config/i3/config">
+    <img alt="Screeshot" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/screenshot.png" />
+    <img alt="Betterlockscreen" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/bloqueio.png" />
+  </a>
+  <br/><br/>
+</div>
+
+---
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
