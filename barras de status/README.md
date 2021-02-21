@@ -1,3 +1,11 @@
+<h1 align="center">dwmblocks</h1>
+
+#### [crzjp](https://gitlab.com/crzjp)
+
+<a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/dwmblocks">
+    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/dwmblocks/dwmblocks.png">
+</a>
+
 <h1 align="center">i3status-rust</h1>
 
 #### [Nícolas Wildner](https://gitlab.com/nwildner)
@@ -68,6 +76,14 @@
 <a href="https://github.com/k4k4rot0/dotfiles/tree/main/.config/polybar">
     <img src="https://i.postimg.cc/xCHHRVQk/bartop.png">
     <img src="https://i.postimg.cc/6qpWQCM9/barbottom.png">
+</a>
+
+<h1 align="center">yambar</h1>
+
+#### [crzjp](https://gitlab.com/crzjp)
+
+<a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/yambar">
+    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/yambar/yambar.png">
 </a>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
