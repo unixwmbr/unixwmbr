@@ -57,7 +57,7 @@
   <a href="https://github.com/swaywm/sway">
     <img alt="WM" src="https://img.shields.io/badge/WM-sway-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://gitlab.com/crzjp/my-dotfiles">
+  <a href="https://github.com/morhetz/gruvbox">
     <img alt="Tema" src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
