@@ -44,4 +44,27 @@
   <br/><br/>
 </div>
 
+---
+
+<div align="center">
+  <a href="https://gitlab.com/crzjp">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-crzjp-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/crzjp/my-dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/swaywm/sway">
+    <img alt="WM" src="https://img.shields.io/badge/WM-sway-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/morhetz/gruvbox">
+    <img alt="Tema" src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/sway/config">
+    <img alt="Captura de tela" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/sway/sway.png" />
+  </a>
+  <br/><br/>
+</div>
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
