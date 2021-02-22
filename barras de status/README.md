@@ -3,7 +3,7 @@
 #### [crzjp](https://gitlab.com/crzjp)
 
 <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/dwmblocks">
-    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/dwmblocks/dwmblocks.png">
+    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/dwmblocks/dwmblocks.png">
 </a>
 
 <h1 align="center">i3status-rust</h1>
@@ -83,7 +83,7 @@
 #### [crzjp](https://gitlab.com/crzjp)
 
 <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/yambar">
-    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/yambar/yambar.png">
+    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/yambar/yambar.png">
 </a>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
