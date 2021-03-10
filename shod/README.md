@@ -18,7 +18,9 @@
     <img alt="Tema" src="https://img.shields.io/badge/Tango-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  [![shod](https://img.youtube.com/vi/tPfB9hQDeeY/0.jpg)](https://www.youtube.com/watch?v=tPfB9hQDeeY)
+  <a href="https://www.youtube.com/watch?v=tPfB9hQDeeY">
+    <img alt="Tema" src="https://img.youtube.com/vi/tPfB9hQDeeY/0.jpg" />
+  </a>
   <br/><br/>
 </div>
 
