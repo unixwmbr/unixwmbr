@@ -18,8 +18,8 @@
     <img alt="Tema" src="https://img.shields.io/badge/Tango-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://www.youtube.com/watch?v=tPfB9hQDeeY">
-    <img alt="Tema" src="https://img.youtube.com/vi/tPfB9hQDeeY/0.jpg" />
+  <a href="https://v.redd.it/661in2b7o3m61">
+    <img alt="Tema" src="https://user-images.githubusercontent.com/63266536/110566324-a0221900-812e-11eb-9add-b7ea2bd12669.png" />
   </a>
   <br/><br/>
 </div>
