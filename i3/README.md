@@ -14,8 +14,8 @@
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://github.com/arcticicestudio/nord">
-    <img alt="Tema" src="https://img.shields.io/badge/Nord-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/mbadolato/iTerm2-Color-Schemes#pnevma">
+    <img alt="Tema" src="https://img.shields.io/badge/Pnevma-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <a href="https://github.com/fraanks/dotfiles/blob/master/.config/i3/config">
