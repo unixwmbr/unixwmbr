@@ -20,7 +20,7 @@
   <br/><br/>
   <a href="https://github.com/fraanks/dotfiles/blob/master/.config/i3/config">
     <img alt="Captura de tela" src="https://github.com/fraanks/dotfiles/blob/master/i3-gaaps.png" />
-    <img alt="i3lock" src="https://github.com/fraanks/dotfiles/blob/master/i3-loock-color.png" />
+    <img alt="i3lock" src="https://github.com/fraanks/dotfiles/blob/master/i3-loock.png" />
   </a>
   <br/><br/>
 </div>
