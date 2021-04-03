@@ -22,4 +22,28 @@
   <br/><br/>
 </div>
 
+----------------
+
+<div align="center">
+  <a href="https://gitlab.com/pedro.portales">
+    <img src="https://img.shields.io/badge/usuário-pedro.portales-%232c3e50?style=for-the-badge" />
+  </a>
+
+  <br/>
+  <a href="https://gitlab.com/pedro.portales/dotfiles">
+    <img alt="Dotfiles" src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/herbstluftwm/herbstluftwm">
+    <img alt="WM" src="https://img.shields.io/badge/wm-herbstluftwm-%235352ed?style=for-the-badge"/>
+  </a>
+  <a href="https://draculatheme.com/">
+    <img alt="Tema" src="https://img.shields.io/badge/tema-dracula-%232ed573?style=for-the-badge"/>
+  </a>
+  <br /><br />
+  <a href="https://gitlab.com/pedro.portales/dotfiles/-/blob/master/.config/herbstluftwm/autostart">
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/pedro.portales/dotfiles/-/raw/master/ricing-finale.png" />
+  </a>
+  <br/><br/>
+</div>
+
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
