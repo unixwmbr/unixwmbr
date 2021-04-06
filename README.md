@@ -12,6 +12,7 @@
 
 <h1 align="center">Dotfiles</h1>
 
+- [2bwm](2bwm/README.md)
 - [AwesomeWM](awesome/README.md)
 - [BSPWM](bspwm/README.md)
 - [Dwm](dwm/README.md)
