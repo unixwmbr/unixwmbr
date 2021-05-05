@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/usuário-crzjp-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://gitlab.com/crzjp/my-dotfiles">
+  <a href="https://gitlab.com/crzjp/.dots">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
@@ -16,15 +16,15 @@
       src="https://img.shields.io/badge/wm-2bwm-%235352ed?style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/jan-warchol/selenized">
+  <a href="https://github.com/altercation/solarized">
     <img
       alt="Tema"
-      src="https://img.shields.io/badge/tema-selenized-%232ed573?style=for-the-badge"
+      src="https://img.shields.io/badge/tema-solarized-%232ed573?style=for-the-badge"
     />
   </a>
   <br /><br />
-  <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/2bwm/">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/2bwm/2bwm.png" />
+  <a href="https://gitlab.com/crzjp/2bwm">
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/2bwm/2bwm.png" />
   </a>
   <br/><br/>
 </div>
@@ -32,7 +32,7 @@
 -----------
 
 <div align="center">
-  <a href="https://github.com/lag00n}">
+  <a href="https://github.com/lag00n">
     <img src="https://img.shields.io/badge/usuário-lxg00n-%2322252f?style=for-the-badge" />
   </a>
   <br/>

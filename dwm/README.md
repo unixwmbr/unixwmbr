@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/usuário-crzjp-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://gitlab.com/crzjp/my-dotfiles">
+  <a href="https://gitlab.com/crzjp/dwm">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
@@ -81,15 +81,15 @@
       src="https://img.shields.io/badge/wm-dwm-%235352ed?style=for-the-badge"
     />
   </a>
-  <a href="https://gitlab.com/crzjp/my-dotfiles">
+  <a href="https://gitlab.com/crzjp/dwm">
     <img
       alt="Tema"
       src="https://img.shields.io/badge/tema-custom-%232ed573?style=for-the-badge"
     />
   </a>
   <br /><br />
-  <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/dwm/">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/dwm/dwm.png" />
+  <a href="https://gitlab.com/crzjp/dwm">
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/dwm/dwm.png" />
   <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/slock/">
     <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/slock/slock.png" />
   </a>
