@@ -19,8 +19,8 @@
   </a>
   <br/><br/>
   <a href="https://github.com/fraanks/dotfiles/blob/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://github.com/fraanks/dotfiles/blob/master/i3-Gaps.png" />
-    <img alt="i3lock" src="https://github.com/fraanks/dotfiles/blob/master/i3Lock-Color.png" />
+    <img alt="Captura de tela" src="https://github.com/fraanks/dotfiles/blob/master/i3-NORD.png" />
+    <img alt="i3lock" src="https://github.com/fraanks/dotfiles/blob/master/i3-Lock-NORD.png" />
   </a>
   <br/><br/>
 </div>
