@@ -89,9 +89,9 @@
   </a>
   <br /><br />
   <a href="https://gitlab.com/crzjp/dwm">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/dwm/dwm.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/dwm/-/raw/master/dwm.png" />
   <a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/slock/">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/slock/slock.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/.dots/-/raw/master/.config/slock/slock.png" />
   </a>
   <br/><br/>
 </div>

@@ -24,7 +24,7 @@
   </a>
   <br /><br />
   <a href="https://gitlab.com/crzjp/2bwm">
-    <img alt="Captura de tela / Gif" src="https://gitlab.com/crzjp/2bwm/2bwm.png" />
+    <img alt="Captura de tela / Gif" src="https://gitlab.com/-/raw/master/2bwm.png" />
   </a>
   <br/><br/>
 </div>
