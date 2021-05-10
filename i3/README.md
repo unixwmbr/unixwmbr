@@ -4,23 +4,23 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/fraanks">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-fraanks-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/ffraanks">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-ffraanks-%2322252f?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/fraanks/dotfiles">
+  <a href="https://github.com/ffraanks/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://github.com/arcticicestudio/nord-visual-studio-code">
-    <img alt="Tema" src="https://img.shields.io/badge/NORD-THEME-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/ffraanks/dotfiles">
+    <img alt="Tema" src="https://img.shields.io/badge/CUSTOM-THEME-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/fraanks/dotfiles/blob/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://github.com/fraanks/dotfiles/blob/master/i3-NORD.png" />
-    <img alt="i3lock" src="https://github.com/fraanks/dotfiles/blob/master/i3-Lock-NORD.png" />
+  <a href="https://github.com/ffraanks/dotfiles/blob/master/.config/i3/config">
+    <img alt="Captura de tela" src="https://github.com/ffraanks/dotfiles/blob/master/i3-Dark.png" />
+    <img alt="i3lock" src="https://github.com/ffraanks/dotfiles/blob/master/Lock-Dark.png" />
   </a>
   <br/><br/>
 </div>
