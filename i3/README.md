@@ -185,5 +185,25 @@
 </div>
 
 ---
+<div align="center">
+  <a href="https://github.com/Androwinbr">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-androwinbr-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/Androwinbr/Dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Airblader/i3">
+    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Androwinbr/Dotfiles">
+    <img alt="Tema" src="https://img.shields.io/badge/CUSTOM-THEME-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Androwinbr/Dotfiles/blob/main/.config/i3/config">
+    <img alt="Captura de tela" src="https://github.com/Androwinbr/Dotfiles/blob/main/2021-05-14_07-41.png" />
+  </a>
+  <br/><br/>
+</div>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
