@@ -67,8 +67,8 @@
 
 #### [mafezoli](https://github.com/mafezoli)
 
-<a href="https://github.com/mafezoli/dotfiles/tree/main/polybar">
-    <img src="https://raw.githubusercontent.com/mafezoli/dotfiles/main/previews/pimpbarpreview.png">
+<a href="https://github.com/mafezoli/dotfiles/tree/master/polybar">
+    <img src="https://raw.githubusercontent.com/mafezoli/dotfiles/master/previews/pimpbarpreview.png">
 </a>
 
 #### [k4k4rot0](https://github.com/k4k4rot0)
