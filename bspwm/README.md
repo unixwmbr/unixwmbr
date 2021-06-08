@@ -116,8 +116,8 @@
     />
   </a>
   <br /><br />
-  <a href="https://github.com/mafezoli/dotfiles/blob/main/bspwm/bspwmrc">
-    <img alt="Captura de tela / Gif" src="https://github.com/mafezoli/dotfiles/blob/main/previews/lainpreview.png" />
+  <a href="https://github.com/mafezoli/dotfiles/blob/master/bspwm/bspwmrc">
+    <img alt="Captura de tela / Gif" src="https://github.com/mafezoli/dotfiles/blob/master/previews/lainpreview.png" />
   </a>
   <br/><br/>
 </div>
