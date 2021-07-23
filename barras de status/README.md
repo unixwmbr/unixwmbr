@@ -1,3 +1,11 @@
+<h1 align="center">dwmblocks</h1>
+
+#### [crzjp](https://gitlab.com/crzjp)
+
+<a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/dwmblocks">
+    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/dwmblocks/dwmblocks.png">
+</a>
+
 <h1 align="center">i3status-rust</h1>
 
 #### [Nícolas Wildner](https://gitlab.com/nwildner)
@@ -28,11 +36,11 @@
 
 <h1 align="center">Polybar</h1>
 
-#### [fffranks](https://github.com/fffranks)
+#### [ffraanks](https://github.com/ffraanks)
 
 <a href="https://github.com/fffranks/dotfiles/tree/master/.config/polybar">
-    <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/polybar1.png">
-    <img src="https://github.com/fffranks/dotfiles/blob/master/screenshots/polybar2.png"> 
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraCima.png">
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraBaixo.png"> 
 </a>
 
 #### [overlock1](https://github.com/overlock1)
@@ -55,6 +63,27 @@
 
 <a href="https://github.com/marcospb19/dotfiles/tree/master/polybar/.config/polybar">
     <img src="https://camo.githubusercontent.com/34cd6d12af2a99290453aa04e8cba0ba503552a5/68747470733a2f2f692e696d6775722e636f6d2f696241314533652e706e67">
+</a>
+
+#### [mafezoli](https://github.com/mafezoli)
+
+<a href="https://github.com/mafezoli/dotfiles/tree/master/polybar">
+    <img src="https://raw.githubusercontent.com/mafezoli/dotfiles/master/previews/pimpbarpreview.png">
+</a>
+
+#### [k4k4rot0](https://github.com/k4k4rot0)
+
+<a href="https://github.com/k4k4rot0/dotfiles/tree/main/.config/polybar">
+    <img src="https://i.postimg.cc/xCHHRVQk/bartop.png">
+    <img src="https://i.postimg.cc/6qpWQCM9/barbottom.png">
+</a>
+
+<h1 align="center">yambar</h1>
+
+#### [crzjp](https://gitlab.com/crzjp)
+
+<a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/yambar">
+    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/yambar/yambar.png">
 </a>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)

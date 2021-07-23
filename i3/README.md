@@ -4,24 +4,23 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/fffranks">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-fffranks-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/ffraanks">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-ffraanks-%2322252f?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/fffranks/dotfiles">
+  <a href="https://github.com/ffraanks/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/Airblader/i3">
     <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://github.com/morhetz/gruvbox">
-    <img alt="Tema" src="https://img.shields.io/badge/GruvBox-%2322252f?style=for-the-badge" />
+  <a href="https://github.com/dylanaraps/pywal">
+    <img alt="Tema" src="https://img.shields.io/badge/PYWAL-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/fffranks/dotfiles/tree/master/.config/i3/config">
-    <img alt="Captura de tela" src="https://github.com/fffranks/dotfiles/blob/master/custom/i3.png" />
-    <img alt="i3lock" src="https://github.com/fffranks/dotfiles/blob/master/custom/lock.png" />
-    <img alt="NeoVIM" src="https://github.com/fffranks/dotfiles/blob/master/custom/neovimm.png" />
+  <a href="https://github.com/ffraanks/dotfiles/blob/master/.config/i3/config">
+    <img alt="Captura de tela" src="https://github.com/ffraanks/dotfiles/blob/master/i3Darling.png" />
+    <img alt="i3lock" src="https://github.com/ffraanks/dotfiles/blob/master/LockDarling.png" />
   </a>
   <br/><br/>
 </div>
@@ -165,5 +164,46 @@
 </div>
 
 ---
+
+<div align="center">
+  <a href="https://github.com/k4k4rot0">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-k4k4rot0-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/k4k4rot0/dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Airblader/i3">
+    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/k4k4rot0/dotfiles/blob/main/.config/i3/config">
+    <img alt="Screeshot" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/screenshot.png" />
+    <img alt="Betterlockscreen" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/bloqueio.png" />
+  </a>
+  <br/><br/>
+</div>
+
+---
+<div align="center">
+  <a href="https://github.com/Androwinbr">
+    <img alt="Dots" src="https://img.shields.io/badge/usuário-androwinbr-%2322252f?style=for-the-badge" />
+  </a>
+  <br/>
+  <a href="https://github.com/Androwinbr/Dotfiles">
+    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Airblader/i3">
+    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Androwinbr/Dotfiles">
+    <img alt="Tema" src="https://img.shields.io/badge/CUSTOM-THEME-%2322252f?style=for-the-badge" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Androwinbr/Dotfiles/blob/main/.config/i3/config">
+    <img alt="Captura de tela" src="https://github.com/Androwinbr/Dotfiles/blob/main/2021-05-14_07-41.png" />
+  </a>
+  <br/><br/>
+</div>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)
