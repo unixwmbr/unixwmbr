@@ -39,8 +39,8 @@
 #### [ffraanks](https://github.com/ffraanks)
 
 <a href="https://github.com/fffranks/dotfiles/tree/master/.config/polybar">
-    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraCima.png">
-    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraBaixo.png"> 
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/GaaraTOP.png">
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/GaaraBOTTOM.png"> 
 </a>
 
 #### [overlock1](https://github.com/overlock1)
