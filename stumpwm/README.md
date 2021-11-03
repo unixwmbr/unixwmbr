@@ -1,7 +1,7 @@
 <h1 align="center">stumpwm</h1>
 <div align="center">
   <a href="https://github.com/crzjp">
-    <img src="https://img.shields.io/badge/usuário-toniz4-%232c3e50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/usuário-crzjp-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
   <a href="https://github.com/crzjp/.dots">
