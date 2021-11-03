@@ -23,7 +23,7 @@
     />
   </a>
   <br /><br />
-  <a href="https://github.com/hype-moment/Farch-Linux">
+  <a href="https://github.com/hype-moment/Farch-Linux/tree/master/.fvwm">
     <img alt="Captura de tela / Gif" src="https://raw.githubusercontent.com/hype-moment/Farch-Linux/main/examples/clear.png" />
     <img alt="Captura de tela / Gif" src="https://raw.githubusercontent.com/hype-moment/Farch-Linux/main/examples/dark.png" />
     <img alt="Captura de tela / Gif" src="https://raw.githubusercontent.com/hype-moment/Farch-Linux/main/examples/light.png" />

@@ -21,6 +21,7 @@
 - [i3 & i3-gaps](i3/README.md)
 - [Qtile](qtile/README.md)
 - [shod](shod/README.md)
+- [stumpwm](stumpwm/README.md)
 - [Sway](sway/README.md)
 - [Xmonad](xmonad/README.md)
 

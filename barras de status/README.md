@@ -1,9 +1,9 @@
 <h1 align="center">dwmblocks</h1>
 
-#### [crzjp](https://gitlab.com/crzjp)
+#### [crzjp](https://github.com/crzjp)
 
-<a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/dwmblocks">
-    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/dwmblocks/dwmblocks.png">
+<a href="https://github.com/crzjp/suckless/tree/master/dwmblocks">
+    <img src="https://github.com/crzjp/suckless/blob/master/dwmblocks/dwmblocks.png">
 </a>
 
 <h1 align="center">i3status-rust</h1>
@@ -25,7 +25,7 @@
 #### [carlosd-ss](https://github.com/carlosd-ss)
 
 <a href="https://github.com/carlosd-ss/dotfiles/blob/master/i3status/config">
-    <img src="https://raw.githubusercontent.com/carlosd-ss/dotfiles/master/.github/bar.png">
+    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/bar.png">
 </a>
 
 #### [overlock1](https://github.com/overlock1)
@@ -38,9 +38,9 @@
 
 #### [ffraanks](https://github.com/ffraanks)
 
-<a href="https://github.com/fffranks/dotfiles/tree/master/.config/polybar">
-    <img src="https://github.com/ffraanks/dotfiles/blob/master/BARRA-TOPO.png">
-    <img src="https://github.com/ffraanks/dotfiles/blob/master/BARRA-BAIXO.png"> 
+<a href="https://github.com/ffraanks/dotfiles/tree/master/.config/polybar">
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraCIMA.png">
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraBAIXO.png"> 
 </a>
 
 #### [overlock1](https://github.com/overlock1)
@@ -67,7 +67,7 @@
 
 #### [mafezoli](https://github.com/mafezoli)
 
-<a href="https://github.com/mafezoli/dotfiles/tree/master/polybar">
+<a href="https://github.com/mafezoli/dotfiles/blob/master/polybar/config">
     <img src="https://raw.githubusercontent.com/mafezoli/dotfiles/master/previews/pimpbarpreview.png">
 </a>
 
@@ -80,10 +80,10 @@
 
 <h1 align="center">yambar</h1>
 
-#### [crzjp](https://gitlab.com/crzjp)
+#### [crzjp](https://github.com/crzjp)
 
-<a href="https://gitlab.com/crzjp/my-dotfiles/-/blob/master/.config/yambar">
-    <img src="https://gitlab.com/crzjp/my-dotfiles/-/raw/master/.config/yambar/yambar.png">
+<a href="https://github.com/crzjp/.dots/tree/master/.config/yambar">
+    <img src="https://github.com/crzjp/.dots/blob/master/.config/yambar/yambar.png">
 </a>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)

@@ -74,7 +74,7 @@
     <img alt="Dots" src="https://img.shields.io/badge/usuário-gabrielcaussi-%2322252f?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/gabrielcaussi/.dotfiles">
+  <a href="https://github.com/gabrielcaussi/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/baskerville/bspwm/">
