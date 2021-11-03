@@ -62,7 +62,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/crzjp/.dots/blob/master/.config/sway/config">
-    <img alt="Captura de tela" src="https://gitlab.com/crzjp/.dots/blob/master/.config/sway/sway.png" />
+    <img alt="Captura de tela" src="https://github.com/crzjp/.dots/blob/master/.config/sway/sway.png" />
   </a>
   <br/><br/>
 </div>
