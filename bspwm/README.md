@@ -80,12 +80,12 @@
   <a href="https://github.com/baskerville/bspwm/">
     <img alt="WM" src="https://img.shields.io/badge/WM-bspwm-%2322252f?style=for-the-badge" />
   </a>
-  <a href="https://draculatheme.com/gtk">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-dracula_theme-%2322252f?style=for-the-badge" />
+  <a href="https://ethanschoonover.com/solarized/">
+    <img alt="Tema" src="https://img.shields.io/badge/tema-solarized-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/gabrielcaussi/.dotfiles/blob/main/.config/bspwm/bspwmrc">
-    <img alt="Captura de tela" src="https://github.com/gabrielcaussi/.dotfiles/blob/main/screenshots/bspwm-gabrielcaussi.png" />
+  <a href="https://github.com/gabrielcaussi/dotfiles/blob/main/.config/bspwm/bspwmrc">
+    <img alt="Captura de tela" src="https://github.com/gabrielcaussi/dotfiles/blob/main/screenshots/screenshot.png" />
   </a>
   <br/><br/>
 </div>
