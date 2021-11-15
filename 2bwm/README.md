@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/usuário-crzjp-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/crzjp/.dots">
+  <a href="https://github.com/crzjp/dotfiles">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
@@ -23,8 +23,8 @@
     />
   </a>
   <br /><br />
-  <a href="https://github.com/crzjp/suckless/tree/master/2bwm">
-    <img alt="Captura de tela / Gif" src="https://github.com/crzjp/suckless/blob/master/2bwm/2bwm.png" />
+  <a href="https://github.com/crzjp/dotfiles/tree/master/.config/2bwm">
+    <img alt="Captura de tela / Gif" src="https://github.com/crzjp/dotfiles/blob/master/.config/2bwm/2bwm.png" />
   </a>
   <br/><br/>
 </div>

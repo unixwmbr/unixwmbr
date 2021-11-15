@@ -51,7 +51,7 @@
     <img alt="Dots" src="https://img.shields.io/badge/usuário-crzjp-%2322252f?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/crzjp/.dots">
+  <a href="https://github.com/crzjp/dotfiles">
     <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
   </a>
   <a href="https://github.com/swaywm/sway">
@@ -61,8 +61,8 @@
     <img alt="Tema" src="https://img.shields.io/badge/tema-gruvbox-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
-  <a href="https://github.com/crzjp/.dots/blob/master/.config/sway/config">
-    <img alt="Captura de tela" src="https://github.com/crzjp/.dots/blob/master/.config/sway/sway.png" />
+  <a href="https://github.com/crzjp/dotfiles/blob/master/.config/sway/config">
+    <img alt="Captura de tela" src="https://github.com/crzjp/dotfiles/blob/master/.config/sway/sway.png" />
   </a>
   <br/><br/>
 </div>

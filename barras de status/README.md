@@ -2,8 +2,8 @@
 
 #### [crzjp](https://github.com/crzjp)
 
-<a href="https://github.com/crzjp/suckless/tree/master/dwmblocks">
-    <img src="https://github.com/crzjp/suckless/blob/master/dwmblocks/dwmblocks.png">
+<a href="https://github.com/crzjp/dotfiles/tree/master/.config/dwmblocks">
+    <img src="https://github.com/crzjp/dotfiles/blob/master/.config/dwmblocks/dwmblocks.png">
 </a>
 
 <h1 align="center">i3status-rust</h1>
@@ -82,8 +82,8 @@
 
 #### [crzjp](https://github.com/crzjp)
 
-<a href="https://github.com/crzjp/.dots/tree/master/.config/yambar">
-    <img src="https://github.com/crzjp/.dots/blob/master/.config/yambar/yambar.png">
+<a href="https://github.com/crzjp/dotfiles/tree/master/.config/yambar">
+    <img src="https://github.com/crzjp/dotfiles/blob/master/.config/yambar/yambar.png">
 </a>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)

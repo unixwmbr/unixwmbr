@@ -33,10 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/crzjp">
-    <img src="https://img.shields.io/badge/usuário-toniz4-%232c3e50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/usuário-crzjp-%232c3e50?style=for-the-badge" />
   </a>
   <br/>
-  <a href="https://github.com/crzjp/.dots">
+  <a href="https://github.com/crzjp/dotfiles">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/dots-%232c3e50?style=for-the-badge"
@@ -55,8 +55,8 @@
     />
   </a>
   <br /><br />
-  <a href="https://github.com/crzjp/.dots/blob/master/.config/xmonad/xmonad.hs">
-    <img alt="Captura de tela / Gif" src="https://github.com/crzjp/.dots/blob/master/.config/xmonad/xmonad.png" />
+  <a href="https://github.com/crzjp/dotfiles/blob/master/.config/xmonad/xmonad.hs">
+    <img alt="Captura de tela / Gif" src="https://github.com/crzjp/dotfiles/blob/master/.config/xmonad/xmonad.png" />
   </a>
   <br/><br/>
 </div>
