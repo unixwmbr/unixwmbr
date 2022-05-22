@@ -47,29 +47,6 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/carlosd-ss">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-carlosdss-%2322252f?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://github.com/carlosd-ss/dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/baskerville/bspwm/">
-    <img alt="WM" src="https://img.shields.io/badge/WM-bspwm-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/morhetz/gruvbox">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-Gruvbox-%2322252f?style=for-the-badge" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/carlosd-ss/dotfiles/blob/master/bspwm/bspwmrc">
-    <img alt="Captura de tela" src="https://github.com/carlosdss22/dotfiles/blob/master/.github/gruvbox.png" />
-  </a>
-  <br/><br/>
-</div>
-
----
-
-<div align="center">
   <a href="https://github.com/gabrielcaussi">
     <img alt="Dots" src="https://img.shields.io/badge/usuário-gabrielcaussi-%2322252f?style=for-the-badge" />
   </a>

@@ -1,11 +1,3 @@
-<h1 align="center">dwmblocks</h1>
-
-#### [crzjp](https://github.com/crzjp)
-
-<a href="https://github.com/crzjp/dotfiles/tree/master/.config/dwmblocks">
-    <img src="https://github.com/crzjp/dotfiles/blob/master/.config/dwmblocks/dwmblocks.png">
-</a>
-
 <h1 align="center">i3status-rust</h1>
 
 #### [Nícolas Wildner](https://gitlab.com/nwildner)
@@ -20,20 +12,6 @@
     <img src="https://raw.githubusercontent.com/jyeno/dotfiles/master/i3status-rs.png">
 </a>
 
-<h1 align="center">i3Status</h1>
-
-#### [carlosd-ss](https://github.com/carlosd-ss)
-
-<a href="https://github.com/carlosd-ss/dotfiles/blob/master/i3status/config">
-    <img src="https://github.com/carlosd-ss/dotfiles/blob/master/.github/bar.png">
-</a>
-
-#### [overlock1](https://github.com/overlock1)
-
-<a href="https://github.com/overlock1/Dotfiles/blob/master/.config/i3status-colorido/i3status/config">
-    <img src="https://raw.githubusercontent.com/overlock1/Dotfiles/master/.config/i3status-colorido/i3status.png">
-</a>
-
 <h1 align="center">Polybar</h1>
 
 #### [ffraanks](https://github.com/ffraanks)
@@ -41,16 +19,6 @@
 <a href="https://github.com/ffraanks/dotfiles/tree/master/.config/polybar">
     <img src="https://github.com/ffraanks/dotfiles/blob/master/bar-top.png">
     <img src="https://github.com/ffraanks/dotfiles/blob/master/bar-bottom.png"> 
-</a>
-
-#### [overlock1](https://github.com/overlock1)
-
-<a href="https://github.com/overlock1/Dotfiles/tree/master/.config/polybar">
-    <img src="https://raw.githubusercontent.com/overlock1/Dotfiles/master/.config/polybar/dock.png">
-</a>
-
-<a href="https://github.com/overlock1/Dotfiles/tree/master/.config/polybar2/polybar">
-    <img src="https://raw.githubusercontent.com/overlock1/Dotfiles/master/.config/polybar2/polybar.png">
 </a>
 
 #### [losaoall](https://github.com/odilonscoelho)
@@ -76,14 +44,6 @@
 <a href="https://github.com/k4k4rot0/dotfiles/tree/main/.config/polybar">
     <img src="https://i.postimg.cc/xCHHRVQk/bartop.png">
     <img src="https://i.postimg.cc/6qpWQCM9/barbottom.png">
-</a>
-
-<h1 align="center">yambar</h1>
-
-#### [crzjp](https://github.com/crzjp)
-
-<a href="https://github.com/crzjp/dotfiles/tree/master/.config/yambar">
-    <img src="https://github.com/crzjp/dotfiles/blob/master/.config/yambar/yambar.png">
 </a>
 
 #### [Voltar para o README principal](https://github.com/unixwmbr/unixwmbr)

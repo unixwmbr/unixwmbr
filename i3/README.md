@@ -1,6 +1,5 @@
 <h1 align="center">i3 e i3-gaps</h1>
 
-
 ---
 
 <div align="center">
@@ -98,29 +97,6 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/overlock1">
-    <img alt="Dots" src="https://img.shields.io/badge/usuário-overlock1-%2322252f?style=for-the-badge" />
-  </a>
-  <br/>
-  <a href="https://github.com/overlock1/Dotfiles">
-    <img alt="Dots" src="https://img.shields.io/badge/dots-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Airblader/i3">
-    <img alt="WM" src="https://img.shields.io/badge/WM-i3gaps-%2322252f?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/overlock1/Dotfiles">
-    <img alt="Tema" src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/overlock1/Dotfiles/blob/master/.config/i3-gaps/i3/config">
-    <img alt="Captura de tela" src="https://github.com/overlock1/Dotfiles/blob/master/.config/i3-gaps/2020-08-19_i3-gaps_1366x768.png" />
-  </a>
-  <br/><br/>
-</div>
-
----
-
-<div align="center">
   <a href="https://github.com/marcospb19">
     <img alt="Dots" src="https://img.shields.io/badge/usuário-marcospb19-%2322252f?style=for-the-badge" />
   </a>
@@ -179,7 +155,7 @@
   <br/><br/>
   <a href="https://github.com/k4k4rot0/dotfiles/blob/main/.config/i3/config">
     <img alt="Screeshot" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/screenshot.png" />
-    <img alt="Betterlockscreen" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/bloqueio.png" />
+    <img alt="Betterlockscreen" src="https://github.com/k4k4rot0/dotfiles/blob/main/screenshots/bloqueio-betterlockscreen.png" />
   </a>
   <br/><br/>
 </div>
