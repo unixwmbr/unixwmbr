@@ -17,8 +17,8 @@
 #### [ffraanks](https://github.com/ffraanks)
 
 <a href="https://github.com/ffraanks/dotfiles/tree/master/.config/polybar">
-    <img src="https://github.com/ffraanks/dotfiles/blob/master/bar-top.png">
-    <img src="https://github.com/ffraanks/dotfiles/blob/master/bar-bottom.png"> 
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraCima.png">
+    <img src="https://github.com/ffraanks/dotfiles/blob/master/BarraBaixo.png"> 
 </a>
 
 #### [losaoall](https://github.com/odilonscoelho)
