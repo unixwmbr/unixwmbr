@@ -147,10 +147,10 @@
       src="https://img.shields.io/badge/wm-bspwm-%2322252f?style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/justleoo/dotfiles">
+  <a href="https://github.com/itsook/ok-theme">
     <img
       alt="Tema"
-      src="https://img.shields.io/badge/tema-custom-%2322252f?style=for-the-badge"
+      src="https://img.shields.io/badge/tema-ok-theme-%2322252f?style=for-the-badge"
     />
   </a>
   <br /><br />
